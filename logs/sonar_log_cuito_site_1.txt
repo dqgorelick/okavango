@@ -1,0 +1,1736 @@
+Now: 1492023681
+Ready!
+1492023681
+0.10 0.94 31.22 31.00
+0.10 0.93 32.23 32.00
+0.10 0.93 32.23 32.00
+0.10 0.93 32.23 32.00
+0.10 0.94 31.22 31.00
+Packet: 6 1492023681 97.34 0.94 0.93 0.93 0.93 0.94
+Watchdog enabled: 8192
+Enabling radio
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted before=1492023688
+P:2
+Ack
+End of queue
+Empty
+Beginning sleep!
+51808
+43616
+35424
+27232
+19040
+10848
+2656
+-5536
+Bye!
+Now: 1492023767
+Ready!
+1492023767
+0.10 0.93 32.23 32.00
+0.10 0.93 32.23 32.00
+0.10 0.93 32.23 32.00
+0.10 0.94 31.22 31.00
+0.10 0.93 32.23 32.00
+Packet: 6 1492023767 96.08 0.93 0.93 0.93 0.94 0.93
+Watchdog enabled: 8192
+Enabling radio
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted before=1492023774
+P:2
+Ack
+End of queue
+Empty
+Beginning sleep!
+51808
+43616
+35424
+27232
+19040
+10848
+2656
+-5536
+Bye!
+Now: 1492023846
+Ready!
+1492023846
+0.10 0.95 30.21 30.00
+0.09 0.96 29.21 29.00
+0.10 0.95 30.21 30.00
+0.09 0.96 29.21 29.00
+0.09 0.96 29.21 29.00
+Packet: 6 1492023846 96.08 0.95 0.96 0.95 0.96 0.96
+Watchdog enabled: 8192
+Enabling radio
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted before=1492023852
+P:2
+Ack
+End of queue
+Empty
+Beginning sleep!
+51808
+43616
+35424
+27232
+19040
+10848
+2656
+-5536
+Bye!
+Now: 1492023926
+Ready!
+1492023926
+0.11 0.92 33.23 33.00
+0.11 0.91 34.24 34.00
+0.11 0.91 34.24 34.00
+0.11 0.91 34.24 34.00
+0.11 0.91 34.24 34.00
+Packet: 6 1492023926 96.08 0.92 0.91 0.91 0.91 0.91
+Watchdog enabled: 8192
+Enabling radio
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted before=1492023933
+P:2
+Ack
+End of queue
+Empty
+Beginning sleep!
+51808
+43616
+35424
+27232
+19040
+10848
+2656
+-5536
+Bye!
+Now: 1492024009
+Ready!
+1492024009
+0.11 0.92 33.23 33.00
+0.11 0.92 33.23 33.00
+0.11 0.92 33.23 33.00
+0.11 0.91 34.24 34.00
+0.11 0.92 33.23 33.00
+Packet: 6 1492024009 97.18 0.92 0.92 0.92 0.91 0.92
+Watchdog enabled: 8192
+Enabling radio
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted before=1492024015
+P:2
+Ack
+End of queue
+Empty
+Beginning sleep!
+51808
+43616
+35424
+27232
+19040
+10848
+2656
+-5536
+Bye!
+Now: 1492024153
+Ready!
+1492024153
+0.11 0.90 35.25 35.00
+0.11 0.90 35.25 35.00
+0.11 0.92 33.23 33.00
+0.11 0.91 34.24 34.00
+0.11 0.91 34.24 34.00
+Packet: 6 1492024153 96.08 0.90 0.90 0.92 0.91 0.91
+Watchdog enabled: 8192
+Enabling radio
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted before=1492024160
+P:2
+Ack
+End of queue
+Empty
+Beginning sleep!
+51808
+43616
+35424
+27232
+19040
+10848
+2656
+-5536
+Bye!
+Now: 1492024170
+Ready!
+1492024170
+0.11 0.91 34.24 34.00
+0.11 0.90 35.25 35.00
+0.11 0.91 34.24 34.00
+0.11 0.91 34.24 34.00
+0.11 0.91 34.24 34.00
+Packet: 6 1492024170 96.08 0.91 0.90 0.91 0.91 0.91
+Watchdog enabled: 8192
+Enabling radio
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted before=1492024177
+P:2
+Ack
+End of queue
+Empty
+Beginning sleep!
+51808
+43616
+35424
+27232
+19040
+10848
+2656
+-5536
+Bye!
+Now: 1492024315
+Ready!
+1492024315
+0.11 0.91 34.24 34.00
+0.11 0.91 34.24 34.00
+0.11 0.91 34.24 34.00
+0.11 0.92 33.23 33.00
+0.11 0.91 34.24 34.00
+Packet: 6 1492024315 96.08 0.91 0.91 0.91 0.92 0.91
+Watchdog enabled: 8192
+Enabling radio
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted before=1492024322
+P:2
+Ack
+End of queue
+Empty
+Beginning sleep!
+51808
+43616
+35424
+27232
+19040
+10848
+2656
+-5536
+Bye!
+Now: 1492024399
+Ready!
+1492024399
+0.11 0.90 35.25 35.00
+0.11 0.92 33.23 33.00
+0.11 0.91 34.24 34.00
+0.11 0.90 35.25 35.00
+0.11 0.92 33.23 33.00
+Packet: 6 1492024399 97.18 0.90 0.92 0.91 0.90 0.92
+Watchdog enabled: 8192
+Enabling radio
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted before=1492024405
+P:2
+Ack
+End of queue
+Empty
+Beginning sleep!
+51808
+43616
+35424
+27232
+19040
+10848
+2656
+-5536
+Bye!
+Now: 1492024416
+Ready!
+1492024416
+0.11 0.92 33.23 33.00
+0.11 0.91 34.24 34.00
+0.11 0.91 34.24 34.00
+0.11 0.92 33.23 33.00
+0.11 0.92 33.23 33.00
+Packet: 6 1492024416 96.08 0.92 0.91 0.91 0.92 0.92
+Watchdog enabled: 8192
+Enabling radio
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted before=1492024422
+P:2
+Ack
+End of queue
+Empty
+Beginning sleep!
+51808
+43616
+35424
+27232
+19040
+10848
+2656
+-5536
+Bye!
+Now: 1492024560
+Ready!
+1492024560
+0.12 0.89 36.25 36.00
+0.11 0.91 34.24 34.00
+0.11 0.90 35.25 35.00
+0.11 0.92 33.23 33.00
+0.11 0.91 34.24 34.00
+Packet: 6 1492024560 96.08 0.89 0.91 0.90 0.92 0.91
+Watchdog enabled: 8192
+Enabling radio
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted before=1492024567
+P:2
+Ack
+End of queue
+Empty
+Beginning sleep!
+51808
+43616
+35424
+27232
+19040
+10848
+2656
+-5536
+Bye!
+Now: 1492024577
+Ready!
+1492024577
+0.11 0.91 34.24 34.00
+0.11 0.90 35.25 35.00
+0.11 0.90 35.25 35.00
+0.11 0.90 35.25 35.00
+0.11 0.91 34.24 34.00
+Packet: 6 1492024577 96.08 0.91 0.90 0.90 0.90 0.91
+Watchdog enabled: 8192
+Enabling radio
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted before=1492024584
+P:2
+Ack
+End of queue
+Empty
+Beginning sleep!
+51808
+43616
+35424
+27232
+19040
+10848
+2656
+-5536
+Bye!
+Now: 1492024661
+Ready!
+1492024661
+0.11 0.92 33.23 33.00
+0.11 0.91 34.24 34.00
+0.11 0.91 34.24 34.00
+0.11 0.90 35.25 35.00
+0.11 0.91 34.24 34.00
+Packet: 6 1492024661 96.08 0.92 0.91 0.91 0.90 0.91
+Watchdog enabled: 8192
+Enabling radio
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted before=1492024668
+P:2
+Ack
+End of queue
+Empty
+Beginning sleep!
+51808
+43616
+35424
+27232
+19040
+10848
+2656
+-5536
+Bye!
+Now: 1492024678
+Ready!
+1492024678
+0.11 0.91 34.24 34.00
+0.11 0.91 34.24 34.00
+0.11 0.90 35.25 35.00
+0.11 0.91 34.24 34.00
+0.11 0.91 34.24 34.00
+Packet: 6 1492024678 96.08 0.91 0.91 0.90 0.91 0.91
+Watchdog enabled: 8192
+Enabling radio
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted before=1492024684
+P:2
+Ack
+End of queue
+Empty
+Beginning sleep!
+51808
+43616
+35424
+27232
+19040
+10848
+2656
+-5536
+Bye!
+Now: 1492024823
+Ready!
+1492024823
+0.11 0.92 33.23 33.00
+0.11 0.91 34.24 34.00
+0.11 0.92 33.23 33.00
+0.11 0.91 34.24 34.00
+0.11 0.91 34.24 34.00
+Packet: 6 1492024823 96.08 0.92 0.91 0.92 0.91 0.91
+Watchdog enabled: 8192
+Enabling radio
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted before=1492024829
+P:2
+Ack
+End of queue
+Empty
+Beginning sleep!
+51808
+43616
+35424
+27232
+19040
+10848
+2656
+-5536
+Bye!
+Now: 1492024907
+Ready!
+1492024907
+0.11 0.91 34.24 34.00
+0.11 0.91 34.24 34.00
+0.11 0.91 34.24 34.00
+0.11 0.92 33.23 33.00
+0.11 0.91 34.24 34.00
+Packet: 6 1492024907 96.55 0.91 0.91 0.91 0.92 0.91
+Watchdog enabled: 8192
+Enabling radio
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted before=1492024913
+P:2
+Ack
+End of queue
+Empty
+Beginning sleep!
+51808
+43616
+35424
+27232
+19040
+10848
+2656
+-5536
+Bye!
+Now: 1492024923
+Ready!
+1492024923
+0.11 0.91 34.24 34.00
+0.11 0.91 34.24 34.00
+0.11 0.91 34.24 34.00
+0.11 0.91 34.24 34.00
+0.11 0.91 34.24 34.00
+Packet: 6 1492024923 96.08 0.91 0.91 0.91 0.91 0.91
+Watchdog enabled: 8192
+Enabling radio
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted before=1492024930
+P:2
+Ack
+End of queue
+Empty
+Beginning sleep!
+51808
+43616
+35424
+27232
+19040
+10848
+2656
+-5536
+Bye!
+Now: 1492025068
+Ready!
+1492025068
+0.11 0.92 33.23 33.00
+0.11 0.91 34.24 34.00
+0.11 0.91 34.24 34.00
+0.11 0.91 34.24 34.00
+0.11 0.91 34.24 34.00
+Packet: 6 1492025068 96.08 0.92 0.91 0.91 0.91 0.91
+Watchdog enabled: 8192
+Enabling radio
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted before=1492025075
+P:2
+Ack
+End of queue
+Empty
+Beginning sleep!
+51808
+43616
+35424
+27232
+19040
+10848
+2656
+-5536
+Bye!
+Now: 1492025086
+Ready!
+1492025086
+0.11 0.92 33.23 33.00
+0.11 0.91 34.24 34.00
+0.11 0.91 34.24 34.00
+0.11 0.91 34.24 34.00
+0.11 0.91 34.24 34.00
+Packet: 6 1492025086 96.08 0.92 0.91 0.91 0.91 0.91
+Watchdog enabled: 8192
+Enabling radio
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted before=1492025092
+P:2
+Ack
+End of queue
+Empty
+Beginning sleep!
+51808
+43616
+35424
+27232
+19040
+10848
+2656
+-5536
+Bye!
+Now: 1492025169
+Ready!
+1492025169
+0.11 0.91 34.24 34.00
+0.11 0.91 34.24 34.00
+0.11 0.91 34.24 34.00
+0.11 0.91 34.24 34.00
+0.11 0.90 35.25 35.00
+Packet: 6 1492025169 96.08 0.91 0.91 0.91 0.91 0.90
+Watchdog enabled: 8192
+Enabling radio
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted before=1492025176
+P:2
+Ack
+End of queue
+Empty
+Beginning sleep!
+51808
+43616
+35424
+27232
+19040
+10848
+2656
+-5536
+Bye!
+Now: 1492025314
+Ready!
+1492025314
+0.11 0.91 34.24 34.00
+0.11 0.92 33.23 33.00
+0.11 0.90 35.25 35.00
+0.11 0.91 34.24 34.00
+0.11 0.92 33.23 33.00
+Packet: 6 1492025314 95.45 0.91 0.92 0.90 0.91 0.92
+Watchdog enabled: 8192
+Enabling radio
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted before=1492025320
+P:2
+Ack
+End of queue
+Empty
+Beginning sleep!
+51808
+43616
+35424
+27232
+19040
+10848
+2656
+-5536
+Bye!
+Now: 1492025332
+Ready!
+1492025332
+0.11 0.92 33.23 33.00
+0.11 0.91 34.24 34.00
+0.11 0.91 34.24 34.00
+0.11 0.90 35.25 35.00
+0.11 0.91 34.24 34.00
+Packet: 6 1492025332 96.08 0.92 0.91 0.91 0.90 0.91
+Watchdog enabled: 8192
+Enabling radio
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted before=1492025338
+P:2
+Ack
+End of queue
+Empty
+Beginning sleep!
+51808
+43616
+35424
+27232
+19040
+10848
+2656
+-5536
+Bye!
+Now: 1492025477
+Ready!
+1492025477
+0.11 0.92 33.23 33.00
+0.11 0.91 34.24 34.00
+0.11 0.91 34.24 34.00
+0.11 0.90 35.25 35.00
+0.11 0.91 34.24 34.00
+Packet: 6 1492025477 96.08 0.92 0.91 0.91 0.90 0.91
+Watchdog enabled: 8192
+Enabling radio
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted before=1492025483
+P:2
+Ack
+End of queue
+Empty
+Beginning sleep!
+51808
+43616
+35424
+27232
+19040
+10848
+2656
+-5536
+Bye!
+Now: 1492025559
+Ready!
+1492025559
+0.11 0.91 34.24 34.00
+0.11 0.91 34.24 34.00
+0.11 0.92 33.23 33.00
+0.11 0.91 34.24 34.00
+0.11 0.91 34.24 34.00
+Packet: 6 1492025559 96.08 0.91 0.91 0.92 0.91 0.91
+Watchdog enabled: 8192
+Enabling radio
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted before=1492025566
+P:2
+Ack
+End of queue
+Empty
+Beginning sleep!
+51808
+43616
+35424
+27232
+19040
+10848
+2656
+-5536
+Bye!
+Now: 1492025576
+Ready!
+1492025576
+0.11 0.91 34.24 34.00
+0.11 0.91 34.24 34.00
+0.11 0.91 34.24 34.00
+0.11 0.91 34.24 34.00
+0.11 0.91 34.24 34.00
+Packet: 6 1492025576 96.08 0.91 0.91 0.91 0.91 0.91
+Watchdog enabled: 8192
+Enabling radio
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted before=1492025583
+P:2
+Ack
+End of queue
+Empty
+Beginning sleep!
+51808
+43616
+35424
+27232
+19040
+10848
+2656
+-5536
+Bye!
+Now: 1492025722
+Ready!
+1492025722
+0.11 0.92 33.23 33.00
+0.11 0.91 34.24 34.00
+0.11 0.91 34.24 34.00
+0.11 0.92 33.23 33.00
+0.11 0.91 34.24 34.00
+Packet: 6 1492025722 96.08 0.92 0.91 0.91 0.92 0.91
+Watchdog enabled: 8192
+Enabling radio
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted before=1492025728
+P:2
+Ack
+End of queue
+Empty
+Beginning sleep!
+51808
+43616
+35424
+27232
+19040
+10848
+2656
+-5536
+Bye!
+Now: 1492025805
+Ready!
+1492025805
+0.11 0.92 33.23 33.00
+0.11 0.92 33.23 33.00
+0.11 0.90 35.25 35.00
+0.11 0.91 34.24 34.00
+0.11 0.91 34.24 34.00
+Packet: 6 1492025805 96.08 0.92 0.92 0.90 0.91 0.91
+Watchdog enabled: 8192
+Enabling radio
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted before=1492025811
+P:2
+Ack
+End of queue
+Empty
+Beginning sleep!
+51808
+43616
+35424
+27232
+19040
+10848
+2656
+-5536
+Bye!
+Now: 1492025821
+Ready!
+1492025821
+0.11 0.91 34.24 34.00
+0.11 0.92 33.23 33.00
+0.11 0.91 34.24 34.00
+0.11 0.91 34.24 34.00
+0.11 0.91 34.24 34.00
+Packet: 6 1492025821 96.08 0.91 0.92 0.91 0.91 0.91
+Watchdog enabled: 8192
+Enabling radio
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted before=1492025828
+P:2
+Ack
+End of queue
+Empty
+Beginning sleep!
+51808
+43616
+35424
+27232
+19040
+10848
+2656
+-5536
+Bye!
+Now: 1492025967
+Ready!
+1492025967
+0.11 0.90 35.25 35.00
+0.11 0.91 34.24 34.00
+0.11 0.92 33.23 33.00
+0.11 0.91 34.24 34.00
+0.11 0.91 34.24 34.00
+Packet: 6 1492025967 95.45 0.90 0.91 0.92 0.91 0.91
+Watchdog enabled: 8192
+Enabling radio
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted before=1492025974
+P:2
+Ack
+End of queue
+Empty
+Beginning sleep!
+51808
+43616
+35424
+27232
+19040
+10848
+2656
+-5536
+Bye!
+Now: 1492025984
+Ready!
+1492025984
+0.11 0.91 34.24 34.00
+0.11 0.92 33.23 33.00
+0.11 0.91 34.24 34.00
+0.11 0.91 34.24 34.00
+0.11 0.91 34.24 34.00
+Packet: 6 1492025984 96.08 0.91 0.92 0.91 0.91 0.91
+Watchdog enabled: 8192
+Enabling radio
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted before=1492025990
+P:2
+Ack
+End of queue
+Empty
+Beginning sleep!
+51808
+43616
+35424
+27232
+19040
+10848
+2656
+-5536
+Bye!
+Now: 1492026067
+Ready!
+1492026067
+0.11 0.91 34.24 34.00
+0.11 0.92 33.23 33.00
+0.11 0.91 34.24 34.00
+0.11 0.92 33.23 33.00
+0.11 0.92 33.23 33.00
+Packet: 6 1492026067 95.45 0.91 0.92 0.91 0.92 0.92
+Watchdog enabled: 8192
+Enabling radio
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted before=1492026073
+P:2
+Ack
+End of queue
+Empty
+Beginning sleep!
+51808
+43616
+35424
+27232
+19040
+10848
+2656
+-5536
+Bye!
+Now: 1492026212
+Ready!
+1492026213
+0.11 0.91 34.24 34.00
+0.11 0.91 34.24 34.00
+0.11 0.92 33.23 33.00
+0.11 0.92 33.23 33.00
+0.11 0.91 34.24 34.00
+Packet: 6 1492026213 96.08 0.91 0.91 0.92 0.92 0.91
+Watchdog enabled: 8192
+Enabling radio
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted before=1492026219
+P:2
+Ack
+End of queue
+Empty
+Beginning sleep!
+51808
+43616
+35424
+27232
+19040
+10848
+2656
+-5536
+Bye!
+Now: 1492026229
+Ready!
+1492026229
+0.11 0.91 34.24 34.00
+0.11 0.91 34.24 34.00
+0.11 0.91 34.24 34.00
+0.11 0.91 34.24 34.00
+0.11 0.91 34.24 34.00
+Packet: 6 1492026229 95.45 0.91 0.91 0.91 0.91 0.91
+Watchdog enabled: 8192
+Enabling radio
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted before=1492026236
+P:2
+Ack
+End of queue
+Empty
+Beginning sleep!
+51808
+43616
+35424
+27232
+19040
+10848
+2656
+-5536
+Bye!
+Now: 1492026313
+Ready!
+1492026313
+0.11 0.92 33.23 33.00
+0.11 0.91 34.24 34.00
+0.11 0.91 34.24 34.00
+0.11 0.92 33.23 33.00
+0.11 0.92 33.23 33.00
+Packet: 6 1492026313 96.08 0.92 0.91 0.91 0.92 0.92
+Watchdog enabled: 8192
+Enabling radio
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted before=1492026319
+P:2
+Ack
+End of queue
+Empty
+Beginning sleep!
+51808
+43616
+35424
+27232
+19040
+10848
+2656
+-5536
+Bye!
+Now: 1492026330
+Ready!
+1492026330
+0.11 0.91 34.24 34.00
+0.11 0.91 34.24 34.00
+0.11 0.91 34.24 34.00
+0.11 0.91 34.24 34.00
+0.11 0.92 33.23 33.00
+Packet: 6 1492026330 96.08 0.91 0.91 0.91 0.91 0.92
+Watchdog enabled: 8192
+Enabling radio
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted before=1492026337
+P:2
+Ack
+End of queue
+Empty
+Beginning sleep!
+51808
+43616
+35424
+27232
+19040
+10848
+2656
+-5536
+Bye!
+Now: 1492026475
+Ready!
+1492026475
+0.11 0.91 34.24 34.00
+0.11 0.92 33.23 33.00
+0.11 0.91 34.24 34.00
+0.11 0.92 33.23 33.00
+0.11 0.91 34.24 34.00
+Packet: 6 1492026475 96.08 0.91 0.92 0.91 0.92 0.91
+Watchdog enabled: 8192
+Enabling radio
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted before=1492026481
+P:2
+Ack
+End of queue
+Empty
+Beginning sleep!
+51808
+43616
+35424
+27232
+19040
+10848
+2656
+-5536
+Bye!
+Now: 1492026493
+Ready!
+1492026493
+0.11 0.91 34.24 34.00
+0.11 0.91 34.24 34.00
+0.11 0.91 34.24 34.00
+0.11 0.91 34.24 34.00
+0.11 0.91 34.24 34.00
+Packet: 6 1492026493 95.45 0.91 0.91 0.91 0.91 0.91
+Watchdog enabled: 8192
+Enabling radio
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted before=1492026499
+P:2
+Ack
+End of queue
+Empty
+Beginning sleep!
+51808
+43616
+35424
+27232
+19040
+10848
+2656
+-5536
+Bye!
+Now: 1492026576
+Ready!
+1492026576
+0.11 0.91 34.24 34.00
+0.11 0.91 34.24 34.00
+0.11 0.92 33.23 33.00
+0.11 0.91 34.24 34.00
+0.11 0.91 34.24 34.00
+Packet: 6 1492026576 95.45 0.91 0.91 0.92 0.91 0.91
+Watchdog enabled: 8192
+Enabling radio
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted before=1492026582
+P:2
+Ack
+End of queue
+Empty
+Beginning sleep!
+51808
+43616
+35424
+27232
+19040
+10848
+2656
+-5536
+Bye!
+Now: 1492026720
+Ready!
+1492026720
+0.11 0.92 33.23 33.00
+0.11 0.92 33.23 33.00
+0.10 0.93 32.23 32.00
+0.11 0.92 33.23 33.00
+0.11 0.91 34.24 34.00
+Packet: 6 1492026720 95.45 0.92 0.92 0.93 0.92 0.91
+Watchdog enabled: 8192
+Enabling radio
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted before=1492026727
+P:2
+Ack
+End of queue
+Empty
+Beginning sleep!
+51808
+43616
+35424
+27232
+19040
+10848
+2656
+-5536
+Bye!
+Now: 1492026737
+Ready!
+1492026737
+0.11 0.92 33.23 33.00
+0.11 0.91 34.24 34.00
+0.11 0.91 34.24 34.00
+0.11 0.92 33.23 33.00
+0.11 0.92 33.23 33.00
+Packet: 6 1492026737 95.45 0.92 0.91 0.91 0.92 0.92
+Watchdog enabled: 8192
+Enabling radio
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted before=1492026743
+P:2
+Ack
+End of queue
+Empty
+Beginning sleep!
+51808
+43616
+35424
+27232
+19040
+10848
+2656
+-5536
+Bye!
+Now: 1492026883
+Ready!
+1492026883
+0.11 0.92 33.23 33.00
+0.11 0.92 33.23 33.00
+0.11 0.92 33.23 33.00
+0.11 0.91 34.24 34.00
+0.11 0.92 33.23 33.00
+Packet: 6 1492026883 96.08 0.92 0.92 0.92 0.91 0.92
+Watchdog enabled: 8192
+Enabling radio
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted before=1492026889
+P:2
+Ack
+End of queue
+Empty
+Beginning sleep!
+51808
+43616
+35424
+27232
+19040
+10848
+2656
+-5536
+Bye!
+Now: 1492026966
+Ready!
+1492026966
+0.11 0.91 34.24 34.00
+0.11 0.91 34.24 34.00
+0.11 0.92 33.23 33.00
+0.11 0.90 35.25 35.00
+0.11 0.91 34.24 34.00
+Packet: 6 1492026966 95.45 0.91 0.91 0.92 0.90 0.91
+Watchdog enabled: 8192
+Enabling radio
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted before=1492026972
+P:2
+Ack
+End of queue
+Empty
+Beginning sleep!
+51808
+43616
+35424
+27232
+19040
+10848
+2656
+-5536
+Bye!
+Now: 1492026982
+Ready!
+1492026982
+0.11 0.91 34.24 34.00
+0.11 0.91 34.24 34.00
+0.11 0.91 34.24 34.00
+0.11 0.91 34.24 34.00
+0.11 0.91 34.24 34.00
+Packet: 6 1492026982 96.08 0.91 0.91 0.91 0.91 0.91
+Watchdog enabled: 8192
+Enabling radio
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted before=1492026989
+P:2
+Ack
+End of queue
+Empty
+Beginning sleep!
+51808
+43616
+35424
+27232
+19040
+10848
+2656
+-5536
+Bye!
+Now: 1492027127
+Ready!
+1492027127
+0.11 0.91 34.24 34.00
+0.11 0.90 35.25 35.00
+0.11 0.91 34.24 34.00
+0.11 0.91 34.24 34.00
+0.11 0.91 34.24 34.00
+Packet: 6 1492027127 96.08 0.91 0.90 0.91 0.91 0.91
+Watchdog enabled: 8192
+Enabling radio
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted before=1492027134
+P:2
+Ack
+End of queue
+Empty
+Beginning sleep!
+51808
+43616
+35424
+27232
+19040
+10848
+2656
+-5536
+Bye!
+Now: 1492027210
+Ready!
+1492027210
+0.11 0.92 33.23 33.00
+0.11 0.92 33.23 33.00
+0.11 0.92 33.23 33.00
+0.10 0.93 32.23 32.00
+0.10 0.93 32.23 32.00
+Packet: 6 1492027210 95.45 0.92 0.92 0.92 0.93 0.93
+Watchdog enabled: 8192
+Enabling radio
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted before=1492027216
+P:2
+Ack
+End of queue
+Empty
+Beginning sleep!
+51808
+43616
+35424
+27232
+19040
+10848
+2656
+-5536
+Bye!
+Now: 1492027228
+Ready!
+1492027228
+0.11 0.91 34.24 34.00
+0.11 0.91 34.24 34.00
+0.11 0.92 33.23 33.00
+0.10 0.93 32.23 32.00
+0.11 0.92 33.23 33.00
+Packet: 6 1492027228 96.08 0.91 0.91 0.92 0.93 0.92
+Watchdog enabled: 8192
+Enabling radio
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted before=1492027234
+P:2
+Ack
+End of queue
+Empty
+Beginning sleep!
+51808
+43616
+35424
+27232
+19040
+10848
+2656
+-5536
+Bye!
+Now: 1492027372
+Ready!
+1492027372
+0.11 0.92 33.23 33.00
+0.10 0.93 32.23 32.00
+0.11 0.92 33.23 33.00
+0.11 0.92 33.23 33.00
+0.11 0.92 33.23 33.00
+Packet: 6 1492027372 95.45 0.92 0.93 0.92 0.92 0.92
+Watchdog enabled: 8192
+Enabling radio
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted before=1492027378
+P:2
+Ack
+End of queue
+Empty
+Beginning sleep!
+51808
+43616
+35424
+27232
+19040
+10848
+2656
+-5536
+Bye!
+Now: 1492027388
+Ready!
+1492027388
+0.11 0.92 33.23 33.00
+0.10 0.93 32.23 32.00
+0.11 0.92 33.23 33.00
+0.11 0.92 33.23 33.00
+0.10 0.93 32.23 32.00
+Packet: 6 1492027388 95.45 0.92 0.93 0.92 0.92 0.93
+Watchdog enabled: 8192
+Enabling radio
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted before=1492027395
+P:2
+Ack
+End of queue
+Empty
+Beginning sleep!
+51808
+43616
+35424
+27232
+19040
+10848
+2656
+-5536
+Bye!
+Now: 1492027472
+Ready!
+1492027472
+0.11 0.91 34.24 34.00
+0.11 0.92 33.23 33.00
+0.11 0.92 33.23 33.00
+0.11 0.92 33.23 33.00
+0.10 0.93 32.23 32.00
+Packet: 6 1492027472 96.08 0.91 0.92 0.92 0.92 0.93
+Watchdog enabled: 8192
+Enabling radio
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted before=1492027478
+P:2
+Ack
+End of queue
+Empty
+Beginning sleep!
+51808
+43616
+35424
+27232
+19040
+10848
+2656
+-5536
+Bye!
+Now: 1492027616
+Ready!
+1492027616
+0.11 0.92 33.23 33.00
+0.11 0.92 33.23 33.00
+0.11 0.92 33.23 33.00
+0.11 0.92 33.23 33.00
+0.11 0.92 33.23 33.00
+Packet: 6 1492027616 96.08 0.92 0.92 0.92 0.92 0.92
+Watchdog enabled: 8192
+Enabling radio
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted before=1492027623
+P:2
+Ack
+End of queue
+Empty
+Beginning sleep!
+51808
+43616
+35424
+27232
+19040
+10848
+2656
+-5536
+Bye!
+Now: 1492027634
+Ready!
+1492027634
+0.10 0.93 32.23 32.00
+0.11 0.92 33.23 33.00
+0.11 0.92 33.23 33.00
+0.11 0.92 33.23 33.00
+0.11 0.92 33.23 33.00
+Packet: 6 1492027634 94.81 0.93 0.92 0.92 0.92 0.92
+Watchdog enabled: 8192
+Enabling radio
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted before=1492027640
+P:2
+Ack
+End of queue
+Empty
+Beginning sleep!
+51808
+43616
+35424
+27232
+19040
+10848
+2656
+-5536
+Bye!
+Now: 1492027780
+Ready!
+1492027780
+0.11 0.92 33.23 33.00
+0.11 0.92 33.23 33.00
+0.10 0.93 32.23 32.00
+0.11 0.92 33.23 33.00
+0.11 0.92 33.23 33.00
+Packet: 6 1492027780 95.45 0.92 0.92 0.93 0.92 0.92
+Watchdog enabled: 8192
+Enabling radio
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted before=1492027786
+P:2
+Ack
+End of queue
+Empty
+Beginning sleep!
+51808
+43616
+35424
+27232
+19040
+10848
+2656
+-5536
+Bye!
+Now: 1492027862
+Ready!
+1492027862
+0.10 0.93 32.23 32.00
+0.10 0.93 32.23 32.00
+0.11 0.92 33.23 33.00
+0.10 0.93 32.23 32.00
+0.11 0.92 33.23 33.00
+Packet: 6 1492027862 94.81 0.93 0.93 0.92 0.93 0.92
+Watchdog enabled: 8192
+Enabling radio
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted before=1492027868
+P:2
+Ack
+End of queue
+Empty
+Beginning sleep!
+51808
+43616
+35424
+27232
+19040
+10848
+2656
+-5536
+Bye!
+Now: 1492027878
+Ready!
+1492027878
+0.11 0.92 33.23 33.00
+0.11 0.92 33.23 33.00
+0.10 0.93 32.23 32.00
+0.10 0.93 32.23 32.00
+0.10 0.94 31.22 31.00
+Packet: 6 1492027878 94.81 0.92 0.92 0.93 0.93 0.94
+Watchdog enabled: 8192
+Enabling radio
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted before=1492027885
+P:2
+Ack
+End of queue
+Empty
+Beginning sleep!
+51808
+43616
+35424
+27232
+19040
+10848
+2656
+-5536
+Bye!
+Now: 1492028023
+Ready!
+1492028023
+0.11 0.92 33.23 33.00
+0.10 0.93 32.23 32.00
+0.11 0.92 33.23 33.00
+0.11 0.92 33.23 33.00
+0.11 0.92 33.23 33.00
+Packet: 6 1492028023 95.45 0.92 0.93 0.92 0.92 0.92
+Watchdog enabled: 8192
+Enabling radio
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted before=1492028030
+P:2
+Ack
+End of queue
+Empty
+Beginning sleep!
+51808
+43616
+35424
+27232
+19040
+10848
+2656
+-5536
+Bye!
+Now: 1492028106
+Ready!
+1492028106
+0.10 0.93 32.23 32.00
+0.10 0.93 32.23 32.00
+0.11 0.92 33.23 33.00
+0.11 0.92 33.23 33.00
+0.10 0.93 32.23 32.00
+Packet: 6 1492028106 95.92 0.93 0.93 0.92 0.92 0.93
+Watchdog enabled: 8192
+Enabling radio
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted before=1492028112
+P:2
+Ack
+End of queue
+Empty
+Beginning sleep!
+51808
+43616
+35424
+27232
+19040
+10848
+2656
+-5536
+Bye!
+Now: 1492028123
+Ready!
+1492028123
+0.11 0.92 33.23 33.00
+0.10 0.93 32.23 32.00
+0.10 0.93 32.23 32.00
+0.11 0.92 33.23 33.00
+0.10 0.93 32.23 32.00
+Packet: 6 1492028123 94.81 0.92 0.93 0.93 0.92 0.93
+Watchdog enabled: 8192
+Enabling radio
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted before=1492028129
+P:2
+Ack
+End of queue
+Empty
+Beginning sleep!
+51808
+43616
+35424
+27232
+19040
+10848
+2656
+-5536
+Bye!
+Now: 1492028267
+Ready!
+1492028267
+0.10 0.94 31.22 31.00
+0.10 0.95 30.21 30.00
+0.10 0.95 30.21 30.00
+0.10 0.95 30.21 30.00
+0.10 0.95 30.21 30.00
+Packet: 6 1492028267 95.92 0.94 0.95 0.95 0.95 0.95
+Watchdog enabled: 8192
+Enabling radio
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted before=1492028274
+P:2
+Ack
+End of queue
+Empty
+Beginning sleep!
+51808
+43616
+35424
+27232
+19040

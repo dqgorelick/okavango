@@ -1,0 +1,528 @@
+Watchdog enabled: 8192
+Loop
+PORT: 0
+C,0
+PORT: 0
+C,0
+1 0>*ER
+
+RESPONSE,1
+2 0>*OK
+
+STATUS
+3 0>?STATUS,P,3.325
+*OK
+
+STATUS
+4 0>?STATUS,P,3.325
+*OK
+
+L,1
+5 0>*OK
+
+C,0
+6 0>*OK
+
+PORT: 1
+C,0
+PORT: 1
+C,0
+1 1>*ER
+
+RESPONSE,1
+2 1>*OK
+
+STATUS
+3 1>?STATUS,P,3.237
+*OK
+
+STATUS
+4 1>?STATUS,P,3.237
+*OK
+
+L,1
+5 1>*OK
+
+C,0
+6 1>*OK
+
+PORT: 2
+C,0
+PORT: 2
+C,0
+1 2>*ER
+
+RESPONSE,1
+2 2>*OK
+
+STATUS
+3 2>?STATUS,P,3.193
+*OK
+
+STATUS
+4 2>?STATUS,P,3.193
+*OK
+
+L,1
+5 2>*OK
+
+C,0
+6 2>*OK
+
+PORT: 3
+C,0
+1 3>*WA
+
+RESPONSE,1
+2 3>*OK
+
+STATUS
+3 3>*OK
+
+STATUS
+4 3>?STATUS,P,3.303
+*OK
+
+L,1
+5 3>?STATUS,P,3.292
+*OK
+
+C,0
+6 3>*OK
+
+Waiting...
+PORT: 0
+R
+8 0>643.9
+*OK
+
+PORT: 1
+R
+8 1>23.13
+*OK
+
+PORT: 2
+R
+8 2>5.488
+*OK
+
+PORT: 3
+R
+8 3>*OK
+
+Read0: 1
+PORT: 0
+R
+8 0>648.7
+*OK
+
+PORT: 1
+R
+8 1>23.13
+*OK
+
+PORT: 2
+R
+8 2>5.506
+*OK
+
+PORT: 3
+R
+8 3>0.00,0,0.00,1.000
+*OK
+
+Read0: 2
+PORT: 0
+R
+8 0>644.4
+*OK
+
+PORT: 1
+R
+8 1>23.13
+*OK
+
+PORT: 2
+R
+8 2>5.544
+*OK
+
+PORT: 3
+R
+8 3>0.00,0,0.00,1.000
+*OK
+
+Read0: 3
+PORT: 0
+R
+8 0>645.4
+*OK
+
+PORT: 1
+R
+8 1>23.13
+*OK
+
+PORT: 2
+R
+8 2>5.581
+*OK
+
+PORT: 3
+R
+8 3>0.00,0,0.00,1.000
+*OK
+
+Read0: 4
+PORT: 0
+R
+8 0>643.5
+*OK
+
+PORT: 1
+R
+8 1>23.13
+*OK
+
+PORT: 2
+R
+8 2>5.638
+*OK
+
+PORT: 3
+R
+8 3>0.00,0,0.00,1.000
+*OK
+
+Read0: 5
+PORT: 0
+R
+8 0>641.6
+*OK
+
+PORT: 1
+R
+8 1>23.13
+*OK
+
+PORT: 2
+R
+8 2>5.673
+*OK
+
+PORT: 3
+R
+8 3>0.00,0,0.00,1.000
+*OK
+
+Read0: 6
+PORT: 0
+R
+8 0>640.7
+*OK
+
+PORT: 1
+R
+8 1>23.13
+*OK
+
+PORT: 2
+R
+8 2>5.710
+*OK
+
+PORT: 3
+R
+8 3>0.00,0,0.00,1.000
+*OK
+
+Read0: 7
+PORT: 0
+R
+8 0>639.1
+*OK
+
+PORT: 1
+R
+8 1>23.13
+*OK
+
+PORT: 2
+R
+8 2>5.753
+*OK
+
+PORT: 3
+R
+8 3>0.00,0,0.00,1.000
+*OK
+
+Read0: 8
+PORT: 0
+R
+8 0>638.5
+*OK
+
+PORT: 1
+R
+8 1>23.13
+*OK
+
+PORT: 2
+R
+8 2>5.786
+*OK
+
+PORT: 3
+R
+8 3>0.00,0,0.00,1.000
+*OK
+
+Read0: 9
+PORT: 0
+R
+8 0>637.0
+*OK
+
+PORT: 1
+R
+8 1>23.13
+*OK
+
+PORT: 2
+R
+8 2>5.814
+*OK
+
+PORT: 3
+R
+8 3>0.00,0,0.00,1.000
+*OK
+
+Read0: 10
+PORT: 0
+R
+8 0>636.1
+*OK
+
+PORT: 1
+R
+8 1>23.13
+*OK
+
+PORT: 2
+R
+8 2>5.843
+*OK
+
+PORT: 3
+R
+8 3>0.00,0,0.00,1.000
+*OK
+
+Read0: 11
+PORT: 0
+R
+8 0>635.2
+*OK
+
+PORT: 1
+R
+8 1>23.13
+*OK
+
+PORT: 2
+R
+8 2>5.884
+*OK
+
+PORT: 3
+R
+8 3>0.00,0,0.00,1.000
+*OK
+
+Read0: 12
+PORT: 0
+R
+8 0>634.0
+*OK
+
+PORT: 1
+R
+8 1>23.13
+*OK
+
+PORT: 2
+R
+8 2>5.934
+*OK
+
+PORT: 3
+R
+8 3>0.00,0,0.00,1.000
+*OK
+
+Read0: 13
+PORT: 0
+R
+8 0>633.9
+*OK
+
+PORT: 1
+R
+8 1>23.13
+*OK
+
+PORT: 2
+R
+8 2>5.987
+*OK
+
+PORT: 3
+R
+8 3>0.00,0,0.00,1.000
+*OK
+
+Read0: 14
+PORT: 0
+R
+8 0>634.8
+*OK
+
+PORT: 1
+R
+8 1>23.13
+*OK
+
+PORT: 2
+R
+8 2>6.230
+*OK
+
+PORT: 3
+R
+8 3>0.00,0,0.00,1.000
+*OK
+
+Read0: 15
+PORT: 0
+R
+8 0>633.6
+*OK
+
+PORT: 1
+R
+8 1>23.13
+*OK
+
+PORT: 2
+R
+8 2>6.350
+*OK
+
+PORT: 3
+R
+8 3>0.00,0,0.00,1.000
+*OK
+
+Read0: 16
+PORT: 0
+R
+8 0>634.1
+*OK
+
+PORT: 1
+R
+8 1>23.13
+*OK
+
+PORT: 2
+R
+8 2>6.511
+*OK
+
+PORT: 3
+R
+8 3>0.00,0,0.00,1.000
+*OK
+
+Starting Real Reads
+R
+9 0>636.8
+*OK
+
+SLEEP
+11 0>*OK
+
+11 0>*OK
+*SL
+
+R
+9 1>23.13
+*OK
+
+SLEEP
+11 1>*OK
+
+11 1>*OK
+*SL
+
+R
+9 2>6.524
+*OK
+
+SLEEP
+11 2>*OK
+
+11 2>*OK
+*SL
+
+R
+9 3>0.00,0,0.00,1.000
+*OK
+
+SLEEP
+11 3>0.00,0,0.00,1.000
+*OK
+
+11 3>0.00,0,0.00,1.000
+*OK
+*OK
+
+11 3>0.00,0,0.00,1.000
+*OK
+*OK
+*SL
+
+NumberOfValues: 7
+DS18B20 20.12
+Metrics
+1492029295
+Packet: 3 1492029295 256.00 636.80 23.13 6.52 0.00 0.00 0.00 1.00 20.12 0.00 0.00 0.00
+Watchdog enabled: 8192
+Enabling radio
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted before=1492029296
+P:2
+Ack
+End of queue
+Empty
+Beginning sleep!
+1791808
+1783616
+1775424
+1767232
+1759040
+1750848
+1742656
+1734464
+1726272
+1718080
+1709888
+1701696
+1693504
+1685312
+1677120

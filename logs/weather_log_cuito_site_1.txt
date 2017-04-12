@@ -1,0 +1,44 @@
+## 1492031154 2017/4/12 21:5:54 0 4003.75 87.21 >Begin
+ResetCause: PoR
+WS: off
+Preflight
+Calling internalBegin
+>> AT
+
+Waiting for response OK
+
+<< AT
+
+OK
+>> ATE1
+
+Waiting for response OK
+
+<< ATE1
+
+OK
+>> AT&D0
+
+Waiting for response OK
+
+<< AT&D0
+
+OK
+>> AT&K0
+
+Waiting for response OK
+
+<< AT&K0
+
+OK
+InternalBegin: success!
+preflight: RockBlock good
+preflight: Checking weather station
+WS: on
+0.00,270.00,53.10,53.10,270.00,0.40,359.00,53.10,270.00,70.70,18.80,nan,nan,0.66,0.66,85844.25,0.00,0.00,0.00,0.00,0.00,0.00,0.00,761.00
+WS: >CommunicationsOk
+WS: off
+preflight: Weather station good
+preflight: LoRa good
+Config: CT
+AW: RR
