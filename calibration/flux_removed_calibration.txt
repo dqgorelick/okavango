@@ -1,0 +1,117 @@
+# *ER
+> ph
+Ph Mode
+c,0>
+c,0
+# *OK
+l,1>
+l,1
+# *OK
+// clear calibration and get reading
+cal,clear>
+cal,clear
+# *OK
+cal,mid,7.00> +
+cal,low,4.00> +
+cal,high,10.00> +
+l,0>
+l,0
+# *OK
+//
+r>
+r
+# 6.428
+# 6.428
+*OK
+> $r
+r
+# 6.341
+> 6.341
+*OK
+> $r
+r
+# 6.367
+# 6.367
+*OK
+> $r
+r
+# 6.330
+# 6.330
+*OK
+> ph
+Ph Mode
+c,0>
+c,0
+# *OK
+l,1>
+l,1
+# *OK
+cal,clear>
+cal,clear
+# *OK
+cal,mid,7.00>
+cal,mid,7.00
+# *OK
+cal,low,4.00>
+cal,low,4.00
+# *OK
+cal,high,10.00>
+cal,high,10.00
+# *OK
+l,0>
+l,0
+# *OK
+r>
+// reading in 10.00 fluid
+r
+# 10.004
+# 10.004
+*OK
+> $r
+// reading in 7.00 fluid (uh oh)
+r
+# 7.506
+# 7.506
+*OK
+> $r
+r
+# 7.505
+# 7.505
+*OK
+>
+
+
+/// later on...
+
+> ph
+Ph Mode
+c,0> +
+l,1> +
+cal,clear> +
+cal,mid,7.00> +
+cal,low,4.00> +
+cal,high,10.00> +
+l,0> +
+// get reading from 7.00 fluid (i suspected it is compromised)
+r>
+r
+# 7.492
+# 7.492
+*OK
+> $r
+// reading 10.00 fluid
+r
+# 9.982
+# 9.982
+*OK
+> $r
+r
+# 9.966
+# 9.966
+*OK
+> $r
+// reading 4.00 fluid
+r
+# 4.088
+# 4.088
+*OK
