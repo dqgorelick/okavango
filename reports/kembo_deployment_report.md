@@ -5,8 +5,6 @@ RockBlock Info:
 IMEI: 300234065118220
 Code: 11374
 
-4/17/17 – deploying environmental sensor at Kembo Source
-
 ## Deconstructing existing station 
 
 ## Deploying new station
