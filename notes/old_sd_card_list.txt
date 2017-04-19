@@ -1,0 +1,6 @@
+Labeled memory cards retrieved from 2016 units
+
+0 - Cuito Weather Station
+1 – Cuito Sonar
+2 – Cuando Weather Station
+3 – Cuando Sonar
