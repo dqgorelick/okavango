@@ -4,3 +4,5 @@ Labeled memory cards retrieved from 2016 units
 1 – Cuito Sonar
 2 – Cuando Weather Station
 3 – Cuando Sonar
+4 – Cuanavale Weather Station
+5 – Cuanavale Sonar
