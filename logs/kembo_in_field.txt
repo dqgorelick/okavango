@@ -1,0 +1,66 @@
+core: RTC uninitialized
+SHA1: e619f1a67770df0f92e95ec739be49f48fa07af9
+## 1492621192 2017/4/19 16:59:52 0 4165.00 97.82 >Begin
+ResetCause: External Reset
+Memory:
+Intervals: idle=120000 aw=600000 r=21600000 stop=30
+#0: +24 % 24
+#1: +0 % 12
+#2: +2 % 12
+WS: off
+memory: Name is same.
+Config: KM
+Preflight
+Calling internalBegin
+>> AT
+
+Waiting for response OK
+
+<< AT
+
+OK
+>> ATE1
+
+Waiting for response OK
+
+<< ATE1
+
+OK
+>> AT&D0
+
+Waiting for response OK
+
+<< AT&D0
+
+OK
+>> AT&K0
+
+Waiting for response OK
+
+<< AT&K0
+
+OK
+InternalBegin: success!
+preflight: RockBlock good
+preflight: Checking weather station
+WS: on
+0.00,45.00,0.00,1.20,45.00,0.00,0.00,1.20,45.00,64.50,23.90,65.90,23.60,0.66,0.66,86652.75,3.05,0.00,0.00,0.00,0.00,0.00,0.00,754.00
+WS: >CommunicationsOk
+WS: off
+preflight: Weather station good
+preflight: LoRa good
+AW: RR
+WS: >Waiting 0, 0 < 30
+WS: on
+P:0
+Ponging!
+P:6
+Acking
+P:6
+Acking
+WS: >Reading
+1492850304.00,180.00,1.40,13.00,45.00,1.20,61.00,13.00,45.00,64.40,24.20,64.30,24.30,2.44,2.44,86702.50,0.01,0.00,0.00,0.00,3.00,220417.00,8375600.00,11635.00
+Clock Adjusted delta=229037
+WS: >Waiting ms=1238 270
+WS: >Off
+WS: off
