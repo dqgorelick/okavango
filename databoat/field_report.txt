@@ -1,0 +1,32 @@
+Databoat Field Report:
+
+
+general comments:
+
+- Having readings happen more frequently is great while on the water!
+- Syncing up watches works well, but what works well is noting the time of the first measurement (on mac or ambit) and then update the CSV timestamps afterwards
+- Being able to see the debug log on the boat is very handy, but bringing a computer onto the data boat is not necessarily preferable
+
+calibration issues:
+
+- do, ec, orp sensors calibration works great
+- ph sensor, after following the calibration procedure (reference /calibration/ph_calibration_procedure.txt) the readings from the calibration fluids are off
+
+ph calibration situation 1:
+
+calibration order is 7.00, 4.00, 10.00. The reading after the calibration process is often floating around 10.00, but after rinsing and placing the probe into the 7.00 solution (to check calibration) the calibration program would read a value around 4.5 or even lower (when running `$r`)
+
+ph calibration situation 2:
+
+after calibrating, the reading from the probe (when still in the 10.00 solution) will read something around 10.00, but continued readings afterwards will either gradually increase or decrease with repeated `$r`. Perhaps this error happens from getting readings too frequently? Not sure.
+
+ph calibration situation 3:
+
+this may be more in the firmware, but when running the calibration program sometimes the ph chip is unresponsive. Hitting enter on `c0` or `l1` will take about 10 seconds, and then the LED will not even turn on. Also on the reading [`r`] step nothing is returned. I assume the chip may still be stuck in continous mode? This behavior has only occured on the ph chip.
+
+solutions to most problems:
+
+- scrub the bottom of the female pins with alcohol, clean with paper towel, and hope that fixes it (sometimes this is all it needs)
+- recalibrate, recalibrate, recalibrate (a time intensive solution)
+- (more drastic options) swap out the atlas ph chip completely, and (only once) swap out the atlas PCB
+- rinse and repeat different options until readings are consistant
