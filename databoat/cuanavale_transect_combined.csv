@@ -1,4 +1,4 @@
-number,timestamp,battery_level,reduction_potential,dissolved_oxygen,ph_level,water_temperature,electrical_conductivity,dissolvelongitude_solids,salinity,specific_gravity,unused,unused,unused,latitude,longitude
+number,timestamp,battery_level,reduction_potential,dissolved_oxygen,ph_level,water_temperature,electrical_conductivity,disolved_solids,salinity,specific_gravity,unused,unused,unused,ISO_date,latitude,longitude
 3,1492512932,95.29,757.60,7.43,4.67,0.00,0.00,0.00,1.00,85.00,0.00,0.00,0.00,-0.22852539944954159,0.32979753762989616
 3,1492509547,91.65,758.70,8.61,0.32,0.00,0.00,0.00,1.00,29.06,0.00,0.00,0.00,-0.22850926911659464,0.32980808814522444
 3,1492509623,91.65,756.60,8.53,0.78,0.00,0.00,0.00,1.00,30.62,0.00,0.00,0.00,-0.22851107902302895,0.32980551203924852
