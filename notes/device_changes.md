@@ -19,3 +19,7 @@ R8 -> CD
 4/19/17 @ Cuanavale source:
 
 R7 -> CV 
+
+4/26/17 @ Lunge Bungo river:
+
+R6 -> LB
