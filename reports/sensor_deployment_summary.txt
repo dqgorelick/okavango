@@ -1,0 +1,28 @@
+Last updated 4/26/17
+
+Sensor Stations Deployed:
+
+Cuito source (CT) on 4/14/17
+Rockblock: IMEI = not recorded, Code = 11380
+
+Cuando source (CD) on 4/17/17
+Rockblock: IMEI = 300234065111210, Code = 11381
+
+Cuanavale source (CV) on 4/19/17
+Rockblock: IMEI = 300234065116200, Code = 11378
+
+Salia Kembo source (KM) on 4/20/17
+Rockblock: IMEI = 300234065118220, Code = 11374
+
+Future deployments
+
+Lunge Bungo (Tchensegwe) source (LB) on 4/26/17
+Rockblock: IMEI = 300234065112330, Code = 11372
+
+
+Remaining deployments:
+
+Menongue Base (HL)
+Cubango River source (CB)
+Ngepi Camp (NG)
+Shakawe River Lodge (SH)
