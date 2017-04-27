@@ -11,6 +11,7 @@ c,0
 l,1>
 l,1
 # *OK
+// check uncalibrated values, not sure what 0.00 indicates, but I assume it isn't high impedance
 cal,clear> +
 cal,mid,7.00> +
 cal,low,4.00> +
@@ -34,6 +35,7 @@ l,1
 cal,clear>
 cal,clear
 # *OK
+// wait 2 minutes...
 cal,mid,7.00>
 cal,mid,7.00
 # *OK
@@ -44,6 +46,7 @@ l,0
 # *OK
 r>
 r
+// cool it looks like 1 point calibration is okay
 # 6.850
 # 6.850
 *OK
@@ -58,28 +61,34 @@ l,1
 cal,clear>
 cal,clear
 # *OK
+// wait 2 minutes...
 cal,mid,7.00>
 cal,mid,7.00
 # *OK
+// wait 2 minutes...
 cal,low,4.00>
 cal,low,4.00
 # *OK
+// wait 2 minutes...
 cal,high,10.00>
 cal,high,10.00
 # *OK
 l,0>
 l,0
 # *OK
+// is still in the 10.00 solution...
 r>
 r
 # 3.964
 # 3.964
 *OK
+// is still in the 10.00 solution...
 > $r
 r
 # 3.948
 # 3.948
 *OK
+// is still in the 10.00 solution...
 > $r
 r
 # 3.957
