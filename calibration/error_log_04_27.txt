@@ -1,0 +1,87 @@
+Begin
+core: SD missing on 16
+Loop
+>
+
+# *ER
+> ph
+Ph Mode
+c,0>
+c,0
+l,1>
+l,1
+# *OK
+cal,clear> +
+cal,mid,7.00> +
+cal,low,4.00> +
+cal,high,10.00> +
+l,0>
+l,0
+# *OK
+r>
+r
+# 0.000
+# 0.000
+*OK
+> ph
+Ph Mode
+c,0>
+c,0
+# *OK
+l,1>
+l,1
+# *OK
+cal,clear>
+cal,clear
+# *OK
+cal,mid,7.00>
+cal,mid,7.00
+# *OK
+cal,low,4.00> +
+cal,high,10.00> +
+l,0>
+l,0
+# *OK
+r>
+r
+# 6.850
+# 6.850
+*OK
+> ph
+Ph Mode
+c,0>
+c,0
+# *OK
+l,1>
+l,1
+# *OK
+cal,clear>
+cal,clear
+# *OK
+cal,mid,7.00>
+cal,mid,7.00
+# *OK
+cal,low,4.00>
+cal,low,4.00
+# *OK
+cal,high,10.00>
+cal,high,10.00
+# *OK
+l,0>
+l,0
+# *OK
+r>
+r
+# 3.964
+# 3.964
+*OK
+> $r
+r
+# 3.948
+# 3.948
+*OK
+> $r
+r
+# 3.957
+# 3.957
+*OK
