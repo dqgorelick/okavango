@@ -34,10 +34,19 @@ def main():
             if columns[i] != 'skip':
                 data[it][columns[i]] = d
 
-    # response = urllib2.urlopen(req, json.dumps(data))
-    # print(response)
-    #
     print(json.dumps(data))
+    
+    upload = raw_input('Upload data? (y/N): ')
+    if upload == 'y':
+        try:
+            response = urllib2.urlopen(req, json.dumps(data))
+            print('uploaded! code: {}, message: {}'.format(response.code, response.read()))
+        except urllib2.HTTPError, e:
+            print('error uploading data... code: {}, message: {}'.format(e.code, e.read()))
+            
+    else: 
+        print('not uploading!')
+    
 
 if __name__ == '__main__':
     main()

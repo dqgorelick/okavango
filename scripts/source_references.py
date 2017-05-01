@@ -6,7 +6,7 @@ def check_location(test):
 
 # be sure to change these columns when data changes
 columns = [
-    'skip',
+    'TransectNumber',
     't_utc',
     'skip',
     'ReductionPotential',
@@ -55,5 +55,35 @@ lakes = {
         'source_name': 'Cuanavale',
         'time_adjustment_recorded': 1493107924,
         'time_adjustment_actual': 1493104452
+    },
+    'tchanssengwe': {
+        'original_path': '../databoat/lunge_bungo_transect_original.CSV',
+        'ambit_path': '../databoat/ambit_data_lunge_bungo.sml',
+        'working_path': '../databoat/lunge_bungo_transect_shifted.csv',
+        'output_path': '../databoat/lunge_bungo_transect_processed.csv',
+        'measurement_method': 'multiple-transects',
+        'source_name': 'Lunge-Bungo (Tchanssengwe)',
+        'time_adjustment_recorded': 1493293153,
+        'time_adjustment_actual': 1493290199
+    },
+    'tchanssengwe_2': {
+        'original_path': '../databoat/lunge_bungo_transect_2_original.CSV',
+        'ambit_path': '../databoat/ambit_data_lunge_bungo_2.sml',
+        'working_path': '../databoat/lunge_bungo_transect_2_shifted.csv',
+        'output_path': '../databoat/lunge_bungo_transect__2_processed.csv',
+        'measurement_method': 'length-wise',
+        'source_name': 'Lunge-Bungo (Tchanssengwe)',
+        'time_adjustment_recorded': 1492888195,
+        'time_adjustment_actual': 1493370060
+    },
+    'tchanssengwe_3': {
+        'original_path': '../databoat/lunge_bungo_transect_3_original.CSV',
+        'ambit_path': '../databoat/ambit_data_lunge_bungo_3.sml',
+        'working_path': '../databoat/lunge_bungo_transect_3_shifted.csv',
+        'output_path': '../databoat/lunge_bungo_transect__3_processed.csv',
+        'measurement_method': 'length-wise',
+        'source_name': 'Lunge-Bungo (Tchanssengwe)',
+        'time_adjustment_recorded': 1493376053,
+        'time_adjustment_actual': 1493375953
     }
 }

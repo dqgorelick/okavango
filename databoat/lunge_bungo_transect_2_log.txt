@@ -1,0 +1,4956 @@
+Watchdog enabled: 8192
+Loop
+PORT: 0
+C,0
+1 0>*OK
+
+RESPONSE,1
+2 0>*OK
+
+STATUS
+3 0>?STATUS,P,3.127
+*OK
+
+STATUS
+4 0>?STATUS,P,3.149
+*OK
+
+L,1
+5 0>*OK
+
+C,0
+6 0>*OK
+
+PORT: 1
+C,0
+1 1>*OK
+
+RESPONSE,1
+2 1>*OK
+
+STATUS
+3 1>?STATUS,P,3.149
+*OK
+
+STATUS
+4 1>?STATUS,P,3.171
+*OK
+
+L,1
+5 1>*OK
+
+C,0
+6 1>*OK
+
+PORT: 2
+C,0
+1 2>*OK
+
+RESPONSE,1
+2 2>*OK
+
+STATUS
+3 2>?STATUS,P,3.171
+*OK
+
+STATUS
+4 2>?STATUS,P,3.171
+*OK
+
+L,1
+5 2>*OK
+
+C,0
+6 2>*OK
+
+PORT: 3
+C,0
+1 3>*ER
+
+RESPONSE,1
+RESPONSE,1
+RESPONSE,1
+2 3>*OK
+
+STATUS
+3 3>?STATUS,P,4.184
+*OK
+
+STATUS
+4 3>?STATUS,P,4.184
+*OK
+
+L,1
+5 3>*OK
+
+C,0
+6 3>*OK
+
+Waiting...
+PORT: 0
+R
+8 0>61.0
+*OK
+
+PORT: 1
+R
+8 1>9.03
+*OK
+
+PORT: 2
+R
+8 2>6.926
+*OK
+
+PORT: 3
+R
+8 3>0.00,0,0.00,1.000
+*OK
+
+Read0: 1
+PORT: 0
+R
+8 0>62.7
+*OK
+
+PORT: 1
+R
+8 1>8.94
+*OK
+
+PORT: 2
+R
+8 2>6.849
+*OK
+
+PORT: 3
+R
+8 3>0.00,0,0.00,1.000
+*OK
+
+Read0: 2
+PORT: 0
+R
+8 0>61.8
+*OK
+
+PORT: 1
+R
+8 1>9.04
+*OK
+
+PORT: 2
+R
+8 2>6.793
+*OK
+
+PORT: 3
+R
+8 3>0.00,0,0.00,1.000
+*OK
+
+Read0: 3
+PORT: 0
+R
+8 0>62.7
+*OK
+
+PORT: 1
+R
+8 1>8.93
+*OK
+
+PORT: 2
+R
+8 2>7.461
+*OK
+
+PORT: 3
+R
+8 3>0.00,0,0.00,1.000
+*OK
+
+Read0: 4
+PORT: 0
+R
+8 0>62.0
+*OK
+
+PORT: 1
+R
+8 1>9.06
+*OK
+
+PORT: 2
+R
+8 2>7.098
+*OK
+
+PORT: 3
+R
+8 3>0.00,0,0.00,1.000
+*OK
+
+Read0: 5
+PORT: 0
+R
+8 0>60.8
+*OK
+
+PORT: 1
+R
+8 1>8.98
+*OK
+
+PORT: 2
+R
+8 2>7.177
+*OK
+
+PORT: 3
+R
+8 3>0.00,0,0.00,1.000
+*OK
+
+Read0: 6
+PORT: 0
+R
+8 0>58.3
+*OK
+
+PORT: 1
+R
+8 1>9.22
+*OK
+
+PORT: 2
+R
+8 2>10.196
+*OK
+
+PORT: 3
+R
+8 3>0.00,0,0.00,1.000
+*OK
+
+Read0: 7
+PORT: 0
+R
+8 0>63.3
+*OK
+
+PORT: 1
+R
+8 1>9.26
+*OK
+
+PORT: 2
+R
+8 2>8.441
+*OK
+
+PORT: 3
+R
+8 3>0.00,0,0.00,1.000
+*OK
+
+Read0: 8
+PORT: 0
+R
+8 0>58.6
+*OK
+
+PORT: 1
+R
+8 1>9.90
+*OK
+
+PORT: 2
+R
+8 2>7.259
+*OK
+
+PORT: 3
+R
+8 3>0.00,0,0.00,1.000
+*OK
+
+Read0: 9
+PORT: 0
+R
+8 0>57.8
+*OK
+
+PORT: 1
+R
+8 1>11.28
+*OK
+
+PORT: 2
+R
+8 2>8.705
+*OK
+
+PORT: 3
+R
+8 3>0.00,0,0.00,1.000
+*OK
+
+Read0: 10
+PORT: 0
+R
+8 0>57.8
+*OK
+
+PORT: 1
+R
+8 1>12.29
+*OK
+
+PORT: 2
+R
+8 2>9.062
+*OK
+
+PORT: 3
+R
+8 3>0.00,0,0.00,1.000
+*OK
+
+Read0: 11
+PORT: 0
+R
+8 0>56.4
+*OK
+
+PORT: 1
+R
+8 1>12.87
+*OK
+
+PORT: 2
+R
+8 2>9.796
+*OK
+
+PORT: 3
+R
+8 3>0.00,0,0.00,1.000
+*OK
+
+Read0: 12
+PORT: 0
+R
+8 0>55.7
+*OK
+
+PORT: 1
+R
+8 1>13.20
+*OK
+
+PORT: 2
+R
+8 2>9.618
+*OK
+
+PORT: 3
+R
+8 3>0.00,0,0.00,1.000
+*OK
+
+Read0: 13
+PORT: 0
+R
+8 0>58.4
+*OK
+
+PORT: 1
+R
+8 1>12.92
+*OK
+
+PORT: 2
+R
+8 2>8.327
+*OK
+
+PORT: 3
+R
+8 3>0.00,0,0.00,1.000
+*OK
+
+Read0: 14
+PORT: 0
+R
+8 0>55.1
+*OK
+
+PORT: 1
+R
+8 1>11.68
+*OK
+
+PORT: 2
+R
+8 2>8.924
+*OK
+
+PORT: 3
+R
+8 3>0.00,0,0.00,1.000
+*OK
+
+Read0: 15
+PORT: 0
+R
+8 0>50.7
+*OK
+
+PORT: 1
+R
+8 1>10.77
+*OK
+
+PORT: 2
+R
+8 2>9.013
+*OK
+
+PORT: 3
+R
+8 3>0.00,0,0.00,1.000
+*OK
+
+Read0: 16
+PORT: 0
+R
+8 0>49.4
+*OK
+
+PORT: 1
+R
+8 1>10.21
+*OK
+
+PORT: 2
+R
+8 2>8.893
+*OK
+
+PORT: 3
+R
+8 3>0.00,0,0.00,1.000
+*OK
+
+Starting Real Reads
+R
+10 0>44.8
+*OK
+
+L,0
+11 0>*OK
+
+R
+10 1>9.90
+*OK
+
+L,0
+11 1>*OK
+
+R
+10 2>9.179
+*OK
+
+L,0
+11 2>*OK
+
+R
+10 3>0.00,0,0.00,1.000
+*OK
+
+L,0
+11 3>*OK
+
+NumberOfValues: 7
+DS18B20 85.00
+Metrics
+1492888195
+Packet: 3 1492888195 193.05 44.80 9.90 9.18 0.00 0.00 0.00 1.00 85.00 0.00 0.00 0.00
+Watchdog enabled: 8192
+Queue: 1
+Pinging
+Ping retry
+Ping retry
+No pong
+Bye!
+L,1
+9 0>*OK
+
+L,1
+9 1>*OK
+
+L,1
+9 2>*OK
+
+L,1
+9 3>*OK
+
+R
+10 0>43.7
+*OK
+
+L,0
+11 0>*OK
+
+R
+10 1>9.89
+*OK
+
+L,0
+11 1>*OK
+
+R
+10 2>9.133
+*OK
+
+L,0
+11 2>*OK
+
+R
+10 3>0.00,0,0.00,1.000
+*OK
+
+L,0
+11 3>*OK
+
+NumberOfValues: 7
+DS18B20 24.31
+Metrics
+1492888213
+Packet: 3 1492888213 193.21 43.70 9.89 9.13 0.00 0.00 0.00 1.00 24.31 0.00 0.00 0.00
+Watchdog enabled: 8192
+Queue: 2
+Pinging
+Ping retry
+Ping retry
+No pong
+Bye!
+L,1
+9 0>*OK
+
+L,1
+9 1>*OK
+
+L,1
+9 2>*OK
+
+L,1
+9 3>*OK
+
+R
+10 0>44.9
+*OK
+
+L,0
+11 0>*OK
+
+R
+10 1>9.98
+*OK
+
+L,0
+11 1>*OK
+
+R
+10 2>9.451
+*OK
+
+L,0
+11 2>*OK
+
+R
+10 3>0.00,0,0.00,1.000
+*OK
+
+L,0
+11 3>*OK
+
+NumberOfValues: 7
+DS18B20 24.19
+Metrics
+1492888230
+Packet: 3 1492888230 193.21 44.90 9.98 9.45 0.00 0.00 0.00 1.00 24.19 0.00 0.00 0.00
+Watchdog enabled: 8192
+Queue: 3
+Pinging
+Ping retry
+Ping retry
+No pong
+Bye!
+L,1
+9 0>*OK
+
+L,1
+9 1>*OK
+
+L,1
+9 2>*OK
+
+L,1
+9 3>*OK
+
+R
+10 0>44.0
+*OK
+
+L,0
+11 0>*OK
+
+R
+10 1>9.97
+*OK
+
+L,0
+11 1>*OK
+
+R
+10 2>9.617
+*OK
+
+L,0
+11 2>*OK
+
+R
+10 3>0.00,0,0.00,1.000
+*OK
+
+L,0
+11 3>*OK
+
+NumberOfValues: 7
+DS18B20 24.25
+Metrics
+1492888247
+Packet: 3 1492888247 193.21 44.00 9.97 9.62 0.00 0.00 0.00 1.00 24.25 0.00 0.00 0.00
+Watchdog enabled: 8192
+Queue: 4
+Pinging
+Ping retry
+Ping retry
+No pong
+Bye!
+L,1
+9 0>*OK
+
+L,1
+9 1>*OK
+
+L,1
+9 2>*OK
+
+L,1
+9 3>*OK
+
+R
+10 0>48.0
+*OK
+
+L,0
+11 0>*OK
+
+R
+10 1>10.05
+*OK
+
+L,0
+11 1>*OK
+
+R
+10 2>9.323
+*OK
+
+L,0
+11 2>*OK
+
+R
+10 3>0.00,0,0.00,1.000
+*OK
+
+L,0
+11 3>*OK
+
+NumberOfValues: 7
+DS18B20 24.25
+Metrics
+1492888265
+Packet: 3 1492888265 193.21 48.00 10.05 9.32 0.00 0.00 0.00 1.00 24.25 0.00 0.00 0.00
+Watchdog enabled: 8192
+Queue: 5
+Pinging
+Ping retry
+Ping retry
+No pong
+Bye!
+L,1
+9 0>*OK
+
+L,1
+9 1>*OK
+
+L,1
+9 2>*OK
+
+L,1
+9 3>*OK
+
+R
+10 0>50.1
+*OK
+
+L,0
+11 0>*OK
+
+R
+10 1>9.70
+*OK
+
+L,0
+11 1>*OK
+
+R
+10 2>8.973
+*OK
+
+L,0
+11 2>*OK
+
+R
+10 3>0.00,0,0.00,1.000
+*OK
+
+L,0
+11 3>*OK
+
+NumberOfValues: 7
+DS18B20 24.31
+Metrics
+1492888282
+Packet: 3 1492888282 193.21 50.10 9.70 8.97 0.00 0.00 0.00 1.00 24.31 0.00 0.00 0.00
+Watchdog enabled: 8192
+Queue: 6
+Pinging
+Ping retry
+Ping retry
+No pong
+Bye!
+L,1
+9 0>*OK
+
+L,1
+9 1>*OK
+
+L,1
+9 2>*OK
+
+L,1
+9 3>*OK
+
+R
+10 0>49.3
+*OK
+
+L,0
+11 0>*OK
+
+R
+10 1>9.61
+*OK
+
+L,0
+11 1>*OK
+
+R
+10 2>9.263
+*OK
+
+L,0
+11 2>*OK
+
+R
+10 3>0.00,0,0.00,1.000
+*OK
+
+L,0
+11 3>*OK
+
+NumberOfValues: 7
+DS18B20 24.19
+Metrics
+1492888300
+Packet: 3 1492888300 193.21 49.30 9.61 9.26 0.00 0.00 0.00 1.00 24.19 0.00 0.00 0.00
+Watchdog enabled: 8192
+Queue: 7
+Pinging
+Ping retry
+Ping retry
+No pong
+Bye!
+L,1
+9 0>*OK
+
+L,1
+9 1>*OK
+
+L,1
+9 2>*OK
+
+L,1
+9 3>*OK
+
+R
+10 0>44.3
+*OK
+
+L,0
+11 0>*OK
+
+R
+10 1>9.15
+*OK
+
+L,0
+11 1>*OK
+
+R
+10 2>9.760
+*OK
+
+L,0
+11 2>*OK
+
+R
+10 3>0.00,0,0.00,1.000
+*OK
+
+L,0
+11 3>*OK
+
+NumberOfValues: 7
+DS18B20 24.19
+Metrics
+1492888317
+Packet: 3 1492888317 193.21 44.30 9.15 9.76 0.00 0.00 0.00 1.00 24.19 0.00 0.00 0.00
+Watchdog enabled: 8192
+Queue: 8
+Pinging
+Ping retry
+Ping retry
+No pong
+Bye!
+L,1
+9 0>*OK
+
+L,1
+9 1>*OK
+
+L,1
+9 2>*OK
+
+L,1
+9 3>*OK
+
+R
+10 0>47.5
+*OK
+
+L,0
+11 0>*OK
+
+R
+10 1>9.01
+*OK
+
+L,0
+11 1>*OK
+
+R
+10 2>9.724
+*OK
+
+L,0
+11 2>*OK
+
+R
+10 3>0.00,0,0.00,1.000
+*OK
+
+L,0
+11 3>*OK
+
+NumberOfValues: 7
+DS18B20 24.19
+Metrics
+1492888334
+Packet: 3 1492888334 193.21 47.50 9.01 9.72 0.00 0.00 0.00 1.00 24.19 0.00 0.00 0.00
+Watchdog enabled: 8192
+Queue: 9
+Pinging
+Ping retry
+Ping retry
+No pong
+Bye!
+L,1
+9 0>*OK
+
+L,1
+9 1>*OK
+
+L,1
+9 2>*OK
+
+L,1
+9 3>*OK
+
+R
+10 0>43.5
+*OK
+
+L,0
+11 0>*OK
+
+R
+10 1>8.77
+*OK
+
+L,0
+11 1>*OK
+
+R
+10 2>10.172
+*OK
+
+L,0
+11 2>*OK
+
+R
+10 3>0.00,0,0.00,1.000
+*OK
+
+L,0
+11 3>*OK
+
+NumberOfValues: 7
+DS18B20 24.12
+Metrics
+1492888352
+Packet: 3 1492888352 193.21 43.50 8.77 10.17 0.00 0.00 0.00 1.00 24.12 0.00 0.00 0.00
+Watchdog enabled: 8192
+Queue: 10
+Pinging
+Ping retry
+Ping retry
+No pong
+Bye!
+L,1
+9 0>*OK
+
+L,1
+9 1>*OK
+
+L,1
+9 2>*OK
+
+L,1
+9 3>*OK
+
+R
+10 0>43.9
+*OK
+
+L,0
+11 0>*OK
+
+R
+10 1>8.90
+*OK
+
+L,0
+11 1>*OK
+
+R
+10 2>10.539
+*OK
+
+L,0
+11 2>*OK
+
+R
+10 3>0.00,0,0.00,1.000
+*OK
+
+L,0
+11 3>*OK
+
+NumberOfValues: 7
+DS18B20 24.12
+Metrics
+1492888369
+Packet: 3 1492888369 193.21 43.90 8.90 10.54 0.00 0.00 0.00 1.00 24.12 0.00 0.00 0.00
+Watchdog enabled: 8192
+Queue: 11
+Pinging
+Ping retry
+Ping retry
+No pong
+Bye!
+L,1
+9 0>*OK
+
+L,1
+9 1>*OK
+
+L,1
+9 2>*OK
+
+L,1
+9 3>*OK
+
+R
+10 0>45.7
+*OK
+
+L,0
+11 0>*OK
+
+R
+10 1>8.62
+*OK
+
+L,0
+11 1>*OK
+
+R
+10 2>10.388
+*OK
+
+L,0
+11 2>*OK
+
+R
+10 3>0.00,0,0.00,1.000
+*OK
+
+L,0
+11 3>*OK
+
+NumberOfValues: 7
+DS18B20 24.12
+Metrics
+1492888387
+Packet: 3 1492888387 193.21 45.70 8.62 10.39 0.00 0.00 0.00 1.00 24.12 0.00 0.00 0.00
+Watchdog enabled: 8192
+Queue: 12
+Pinging
+Ping retry
+Ping retry
+No pong
+Bye!
+L,1
+9 0>*OK
+
+L,1
+9 1>*OK
+
+L,1
+9 2>*OK
+
+L,1
+9 3>*OK
+
+R
+10 0>46.0
+*OK
+
+L,0
+11 0>*OK
+
+R
+10 1>8.68
+*OK
+
+L,0
+11 1>*OK
+
+R
+10 2>10.566
+*OK
+
+L,0
+11 2>*OK
+
+R
+10 3>0.00,0,0.00,1.000
+*OK
+
+L,0
+11 3>*OK
+
+NumberOfValues: 7
+DS18B20 24.12
+Metrics
+1492888404
+Packet: 3 1492888404 193.37 46.00 8.68 10.57 0.00 0.00 0.00 1.00 24.12 0.00 0.00 0.00
+Watchdog enabled: 8192
+Queue: 13
+Pinging
+Ping retry
+Ping retry
+No pong
+Bye!
+L,1
+9 0>*OK
+
+L,1
+9 1>*OK
+
+L,1
+9 2>*OK
+
+L,1
+9 3>*OK
+
+R
+10 0>48.5
+*OK
+
+L,0
+11 0>*OK
+
+R
+10 1>8.68
+*OK
+
+L,0
+11 1>*OK
+
+R
+10 2>10.518
+*OK
+
+L,0
+11 2>*OK
+
+R
+10 3>0.00,0,0.00,1.000
+*OK
+
+L,0
+11 3>*OK
+
+NumberOfValues: 7
+DS18B20 24.12
+Metrics
+1492888422
+Packet: 3 1492888422 193.37 48.50 8.68 10.52 0.00 0.00 0.00 1.00 24.12 0.00 0.00 0.00
+Watchdog enabled: 8192
+Queue: 14
+Pinging
+Ping retry
+Ping retry
+No pong
+Bye!
+L,1
+9 0>*OK
+
+L,1
+9 1>*OK
+
+L,1
+9 2>*OK
+
+L,1
+9 3>*OK
+
+R
+10 0>49.8
+*OK
+
+L,0
+11 0>*OK
+
+R
+10 1>8.69
+*OK
+
+L,0
+11 1>*OK
+
+R
+10 2>10.719
+*OK
+
+L,0
+11 2>*OK
+
+R
+10 3>0.00,0,0.00,1.000
+*OK
+
+L,0
+11 3>*OK
+
+NumberOfValues: 7
+DS18B20 24.19
+Metrics
+1492888439
+Packet: 3 1492888439 193.37 49.80 8.69 10.72 0.00 0.00 0.00 1.00 24.19 0.00 0.00 0.00
+Watchdog enabled: 8192
+Queue: 15
+Pinging
+Ping retry
+Ping retry
+No pong
+Bye!
+L,1
+9 0>*OK
+
+L,1
+9 1>*OK
+
+L,1
+9 2>*OK
+
+L,1
+9 3>*OK
+
+R
+10 0>50.7
+*OK
+
+L,0
+11 0>*OK
+
+R
+10 1>8.78
+*OK
+
+L,0
+11 1>*OK
+
+R
+10 2>10.730
+*OK
+
+L,0
+11 2>*OK
+
+R
+10 3>0.00,0,0.00,1.000
+*OK
+
+L,0
+11 3>*OK
+
+NumberOfValues: 7
+DS18B20 24.25
+Metrics
+1492888457
+Packet: 3 1492888457 193.37 50.70 8.78 10.73 0.00 0.00 0.00 1.00 24.25 0.00 0.00 0.00
+Watchdog enabled: 8192
+Queue: 16
+Pinging
+Ping retry
+Ping retry
+No pong
+Bye!
+L,1
+9 0>*OK
+
+L,1
+9 1>*OK
+
+L,1
+9 2>*OK
+
+L,1
+9 3>*OK
+
+R
+10 0>58.5
+*OK
+
+L,0
+11 0>*OK
+
+R
+10 1>8.73
+*OK
+
+L,0
+11 1>*OK
+
+R
+10 2>10.425
+*OK
+
+L,0
+11 2>*OK
+
+R
+10 3>0.00,0,0.00,1.000
+*OK
+
+L,0
+11 3>*OK
+
+NumberOfValues: 7
+DS18B20 24.25
+Metrics
+1492888474
+Packet: 3 1492888474 193.37 58.50 8.73 10.43 0.00 0.00 0.00 1.00 24.25 0.00 0.00 0.00
+Watchdog enabled: 8192
+Queue: 17
+Pinging
+Ping retry
+Ping retry
+No pong
+Bye!
+L,1
+9 0>*OK
+
+L,1
+9 1>*OK
+
+L,1
+9 2>*OK
+
+L,1
+9 3>*OK
+
+R
+10 0>54.0
+*OK
+
+L,0
+11 0>*OK
+
+R
+10 1>8.65
+*OK
+
+L,0
+11 1>*OK
+
+R
+10 2>10.652
+*OK
+
+L,0
+11 2>*OK
+
+R
+10 3>0.00,0,0.00,1.000
+*OK
+
+L,0
+11 3>*OK
+
+NumberOfValues: 7
+DS18B20 24.25
+Metrics
+1492888492
+Packet: 3 1492888492 193.37 54.00 8.65 10.65 0.00 0.00 0.00 1.00 24.25 0.00 0.00 0.00
+Watchdog enabled: 8192
+Queue: 18
+Pinging
+Ping retry
+Ping retry
+No pong
+Bye!
+L,1
+9 0>*OK
+
+L,1
+9 1>*OK
+
+L,1
+9 2>*OK
+
+L,1
+9 3>*OK
+
+R
+10 0>55.3
+*OK
+
+L,0
+11 0>*OK
+
+R
+10 1>8.60
+*OK
+
+L,0
+11 1>*OK
+
+R
+10 2>10.974
+*OK
+
+L,0
+11 2>*OK
+
+R
+10 3>0.00,0,0.00,1.000
+*OK
+
+L,0
+11 3>*OK
+
+NumberOfValues: 7
+DS18B20 24.19
+Metrics
+1492888509
+Packet: 3 1492888509 193.37 55.30 8.60 10.97 0.00 0.00 0.00 1.00 24.19 0.00 0.00 0.00
+Watchdog enabled: 8192
+Queue: 19
+Pinging
+Ping retry
+Ping retry
+No pong
+Bye!
+L,1
+9 0>*OK
+
+L,1
+9 1>*OK
+
+L,1
+9 2>*OK
+
+L,1
+9 3>*OK
+
+R
+10 0>57.0
+*OK
+
+L,0
+11 0>*OK
+
+R
+10 1>8.63
+*OK
+
+L,0
+11 1>*OK
+
+R
+10 2>10.687
+*OK
+
+L,0
+11 2>*OK
+
+R
+10 3>0.00,0,0.00,1.000
+*OK
+
+L,0
+11 3>*OK
+
+NumberOfValues: 7
+DS18B20 24.19
+Metrics
+1492888527
+Packet: 3 1492888527 193.37 57.00 8.63 10.69 0.00 0.00 0.00 1.00 24.19 0.00 0.00 0.00
+Watchdog enabled: 8192
+Queue: 20
+Pinging
+Ping retry
+Ping retry
+No pong
+Bye!
+L,1
+9 0>*OK
+
+L,1
+9 1>*OK
+
+L,1
+9 2>*OK
+
+L,1
+9 3>*OK
+
+R
+10 0>56.7
+*OK
+
+L,0
+11 0>*OK
+
+R
+10 1>8.65
+*OK
+
+L,0
+11 1>*OK
+
+R
+10 2>10.873
+*OK
+
+L,0
+11 2>*OK
+
+R
+10 3>0.00,0,0.00,1.000
+*OK
+
+L,0
+11 3>*OK
+
+NumberOfValues: 7
+DS18B20 24.19
+Metrics
+1492888544
+Packet: 3 1492888544 193.37 56.70 8.65 10.87 0.00 0.00 0.00 1.00 24.19 0.00 0.00 0.00
+Watchdog enabled: 8192
+Queue: 21
+Pinging
+Ping retry
+Ping retry
+No pong
+Bye!
+L,1
+9 0>*OK
+
+L,1
+9 1>*OK
+
+L,1
+9 2>*OK
+
+L,1
+9 3>*OK
+
+R
+10 0>58.0
+*OK
+
+L,0
+11 0>*OK
+
+R
+10 1>8.62
+*OK
+
+L,0
+11 1>*OK
+
+R
+10 2>11.040
+*OK
+
+L,0
+11 2>*OK
+
+R
+10 3>0.00,0,0.00,1.000
+*OK
+
+L,0
+11 3>*OK
+
+NumberOfValues: 7
+DS18B20 24.19
+Metrics
+1492888562
+Packet: 3 1492888562 193.37 58.00 8.62 11.04 0.00 0.00 0.00 1.00 24.19 0.00 0.00 0.00
+Watchdog enabled: 8192
+Queue: 22
+Pinging
+Ping retry
+Ping retry
+No pong
+Bye!
+L,1
+9 0>*OK
+
+L,1
+9 1>*OK
+
+L,1
+9 2>*OK
+
+L,1
+9 3>*OK
+
+R
+10 0>58.4
+*OK
+
+L,0
+11 0>*OK
+
+R
+10 1>8.62
+*OK
+
+L,0
+11 1>*OK
+
+R
+10 2>11.038
+*OK
+
+L,0
+11 2>*OK
+
+R
+10 3>0.00,0,0.00,1.000
+*OK
+
+L,0
+11 3>*OK
+
+NumberOfValues: 7
+DS18B20 24.19
+Metrics
+1492888579
+Packet: 3 1492888579 193.37 58.40 8.62 11.04 0.00 0.00 0.00 1.00 24.19 0.00 0.00 0.00
+Watchdog enabled: 8192
+Queue: 23
+Pinging
+Ping retry
+Ping retry
+No pong
+Bye!
+L,1
+9 0>*OK
+
+L,1
+9 1>*OK
+
+L,1
+9 2>*OK
+
+L,1
+9 3>*OK
+
+R
+10 0>60.4
+*OK
+
+L,0
+11 0>*OK
+
+R
+10 1>8.59
+*OK
+
+L,0
+11 1>*OK
+
+R
+10 2>11.365
+*OK
+
+L,0
+11 2>*OK
+
+R
+10 3>0.00,0,0.00,1.000
+*OK
+
+L,0
+11 3>*OK
+
+NumberOfValues: 7
+DS18B20 24.19
+Metrics
+1492888596
+Packet: 3 1492888596 193.37 60.40 8.59 11.36 0.00 0.00 0.00 1.00 24.19 0.00 0.00 0.00
+Watchdog enabled: 8192
+Queue: 24
+Pinging
+Ping retry
+Ping retry
+No pong
+Bye!
+L,1
+9 0>*OK
+
+L,1
+9 1>*OK
+
+L,1
+9 2>*OK
+
+L,1
+9 3>*OK
+
+R
+10 0>62.3
+*OK
+
+L,0
+11 0>*OK
+
+R
+10 1>8.53
+*OK
+
+L,0
+11 1>*OK
+
+R
+10 2>11.090
+*OK
+
+L,0
+11 2>*OK
+
+R
+10 3>0.00,0,0.00,1.000
+*OK
+
+L,0
+11 3>*OK
+
+NumberOfValues: 7
+DS18B20 24.19
+Metrics
+1492888614
+Packet: 3 1492888614 193.37 62.30 8.53 11.09 0.00 0.00 0.00 1.00 24.19 0.00 0.00 0.00
+Watchdog enabled: 8192
+Queue: 25
+Pinging
+Ping retry
+Ping retry
+No pong
+Bye!
+L,1
+9 0>*OK
+
+L,1
+9 1>*OK
+
+L,1
+9 2>*OK
+
+L,1
+9 3>*OK
+
+R
+10 0>63.2
+*OK
+
+L,0
+11 0>*OK
+
+R
+10 1>8.58
+*OK
+
+L,0
+11 1>*OK
+
+R
+10 2>10.665
+*OK
+
+L,0
+11 2>*OK
+
+R
+10 3>0.00,0,0.00,1.000
+*OK
+
+L,0
+11 3>*OK
+
+NumberOfValues: 7
+DS18B20 24.19
+Metrics
+1492888631
+Packet: 3 1492888631 193.53 63.20 8.58 10.66 0.00 0.00 0.00 1.00 24.19 0.00 0.00 0.00
+Watchdog enabled: 8192
+Queue: 26
+Pinging
+Ping retry
+Ping retry
+No pong
+Bye!
+L,1
+9 0>*OK
+
+L,1
+9 1>*OK
+
+L,1
+9 2>*OK
+
+L,1
+9 3>*OK
+
+R
+10 0>64.5
+*OK
+
+L,0
+11 0>*OK
+
+R
+10 1>8.57
+*OK
+
+L,0
+11 1>*OK
+
+R
+10 2>10.975
+*OK
+
+L,0
+11 2>*OK
+
+R
+10 3>0.00,0,0.00,1.000
+*OK
+
+L,0
+11 3>*OK
+
+NumberOfValues: 7
+DS18B20 24.19
+Metrics
+1492888649
+Packet: 3 1492888649 193.53 64.50 8.57 10.98 0.00 0.00 0.00 1.00 24.19 0.00 0.00 0.00
+Watchdog enabled: 8192
+Queue: 27
+Pinging
+Ping retry
+Ping retry
+No pong
+Bye!
+L,1
+9 0>*OK
+
+L,1
+9 1>*OK
+
+L,1
+9 2>*OK
+
+L,1
+9 3>*OK
+
+R
+10 0>64.1
+*OK
+
+L,0
+11 0>*OK
+
+R
+10 1>8.60
+*OK
+
+L,0
+11 1>*OK
+
+R
+10 2>11.144
+*OK
+
+L,0
+11 2>*OK
+
+R
+10 3>0.00,0,0.00,1.000
+*OK
+
+L,0
+11 3>*OK
+
+NumberOfValues: 7
+DS18B20 24.19
+Metrics
+1492888666
+Packet: 3 1492888666 193.53 64.10 8.60 11.14 0.00 0.00 0.00 1.00 24.19 0.00 0.00 0.00
+Watchdog enabled: 8192
+Queue: 28
+Pinging
+Ping retry
+Ping retry
+No pong
+Bye!
+L,1
+9 0>*OK
+
+L,1
+9 1>*OK
+
+L,1
+9 2>*OK
+
+L,1
+9 3>*OK
+
+R
+10 0>67.4
+*OK
+
+L,0
+11 0>*OK
+
+R
+10 1>8.61
+*OK
+
+L,0
+11 1>*OK
+
+R
+10 2>10.927
+*OK
+
+L,0
+11 2>*OK
+
+R
+10 3>0.00,0,0.00,1.000
+*OK
+
+L,0
+11 3>*OK
+
+NumberOfValues: 7
+DS18B20 24.25
+Metrics
+1492888684
+Packet: 3 1492888684 193.53 67.40 8.61 10.93 0.00 0.00 0.00 1.00 24.25 0.00 0.00 0.00
+Watchdog enabled: 8192
+Queue: 29
+Pinging
+Ping retry
+Ping retry
+No pong
+Bye!
+L,1
+9 0>*OK
+
+L,1
+9 1>*OK
+
+L,1
+9 2>*OK
+
+L,1
+9 3>*OK
+
+R
+10 0>66.2
+*OK
+
+L,0
+11 0>*OK
+
+R
+10 1>8.56
+*OK
+
+L,0
+11 1>*OK
+
+R
+10 2>11.022
+*OK
+
+L,0
+11 2>*OK
+
+R
+10 3>0.00,0,0.00,1.000
+*OK
+
+L,0
+11 3>*OK
+
+NumberOfValues: 7
+DS18B20 24.25
+Metrics
+1492888701
+Packet: 3 1492888701 193.53 66.20 8.56 11.02 0.00 0.00 0.00 1.00 24.25 0.00 0.00 0.00
+Watchdog enabled: 8192
+Queue: 30
+Pinging
+Ping retry
+Ping retry
+No pong
+Bye!
+L,1
+9 0>*OK
+
+L,1
+9 1>*OK
+
+L,1
+9 2>*OK
+
+L,1
+9 3>*OK
+
+R
+10 0>67.3
+*OK
+
+L,0
+11 0>*OK
+
+R
+10 1>8.49
+*OK
+
+L,0
+11 1>*OK
+
+R
+10 2>11.339
+*OK
+
+L,0
+11 2>*OK
+
+R
+10 3>0.00,0,0.00,1.000
+*OK
+
+L,0
+11 3>*OK
+
+NumberOfValues: 7
+DS18B20 24.25
+Metrics
+1492888719
+Packet: 3 1492888719 193.53 67.30 8.49 11.34 0.00 0.00 0.00 1.00 24.25 0.00 0.00 0.00
+Watchdog enabled: 8192
+Queue: 31
+Pinging
+Ping retry
+Ping retry
+No pong
+Bye!
+L,1
+9 0>*OK
+
+L,1
+9 1>*OK
+
+L,1
+9 2>*OK
+
+L,1
+9 3>*OK
+
+R
+10 0>69.3
+*OK
+
+L,0
+11 0>*OK
+
+R
+10 1>8.49
+*OK
+
+L,0
+11 1>*OK
+
+R
+10 2>10.965
+*OK
+
+L,0
+11 2>*OK
+
+R
+10 3>0.00,0,0.00,1.000
+*OK
+
+L,0
+11 3>*OK
+
+NumberOfValues: 7
+DS18B20 24.31
+Metrics
+1492888736
+Packet: 3 1492888736 193.53 69.30 8.49 10.97 0.00 0.00 0.00 1.00 24.31 0.00 0.00 0.00
+Watchdog enabled: 8192
+Queue: 32
+Pinging
+Ping retry
+Ping retry
+No pong
+Bye!
+L,1
+9 0>*OK
+
+L,1
+9 1>*OK
+
+L,1
+9 2>*OK
+
+L,1
+9 3>*OK
+
+R
+10 0>71.4
+*OK
+
+L,0
+11 0>*OK
+
+R
+10 1>8.40
+*OK
+
+L,0
+11 1>*OK
+
+R
+10 2>10.856
+*OK
+
+L,0
+11 2>*OK
+
+R
+10 3>0.00,0,0.00,1.000
+*OK
+
+L,0
+11 3>*OK
+
+NumberOfValues: 7
+DS18B20 24.25
+Metrics
+1492888754
+Packet: 3 1492888754 193.53 71.40 8.40 10.86 0.00 0.00 0.00 1.00 24.25 0.00 0.00 0.00
+Watchdog enabled: 8192
+Queue: 33
+Pinging
+Ping retry
+Ping retry
+No pong
+Bye!
+L,1
+9 0>*OK
+
+L,1
+9 1>*OK
+
+L,1
+9 2>*OK
+
+L,1
+9 3>*OK
+
+R
+10 0>71.1
+*OK
+
+L,0
+11 0>*OK
+
+R
+10 1>8.45
+*OK
+
+L,0
+11 1>*OK
+
+R
+10 2>11.069
+*OK
+
+L,0
+11 2>*OK
+
+R
+10 3>0.00,0,0.00,1.000
+*OK
+
+L,0
+11 3>*OK
+
+NumberOfValues: 7
+DS18B20 24.25
+Metrics
+1492888771
+Packet: 3 1492888771 193.53 71.10 8.45 11.07 0.00 0.00 0.00 1.00 24.25 0.00 0.00 0.00
+Watchdog enabled: 8192
+Queue: 34
+Pinging
+Ping retry
+Ping retry
+No pong
+Bye!
+L,1
+9 0>*OK
+
+L,1
+9 1>*OK
+
+L,1
+9 2>*OK
+
+L,1
+9 3>*OK
+
+R
+10 0>71.8
+*OK
+
+L,0
+11 0>*OK
+
+R
+10 1>8.64
+*OK
+
+L,0
+11 1>*OK
+
+R
+10 2>11.247
+*OK
+
+L,0
+11 2>*OK
+
+R
+10 3>0.00,0,0.00,1.000
+*OK
+
+L,0
+11 3>*OK
+
+NumberOfValues: 7
+DS18B20 24.25
+Metrics
+1492888789
+Packet: 3 1492888789 193.53 71.80 8.64 11.25 0.00 0.00 0.00 1.00 24.25 0.00 0.00 0.00
+Watchdog enabled: 8192
+Queue: 35
+Pinging
+Ping retry
+Ping retry
+No pong
+Bye!
+L,1
+9 0>*OK
+
+L,1
+9 1>*OK
+
+L,1
+9 2>*OK
+
+L,1
+9 3>*OK
+
+R
+10 0>70.6
+*OK
+
+L,0
+11 0>*OK
+
+R
+10 1>9.66
+*OK
+
+L,0
+11 1>*OK
+
+R
+10 2>11.341
+*OK
+
+L,0
+11 2>*OK
+
+R
+10 3>0.00,0,0.00,1.000
+*OK
+
+L,0
+11 3>*OK
+
+NumberOfValues: 7
+DS18B20 24.19
+Metrics
+1492888806
+Packet: 3 1492888806 193.53 70.60 9.66 11.34 0.00 0.00 0.00 1.00 24.19 0.00 0.00 0.00
+Watchdog enabled: 8192
+Queue: 36
+Pinging
+Ping retry
+Ping retry
+No pong
+Bye!
+L,1
+9 0>*OK
+
+L,1
+9 1>*OK
+
+L,1
+9 2>*OK
+
+L,1
+L,1
+9 3>*OK
+
+R
+10 0>75.1
+*OK
+
+L,0
+11 0>*OK
+
+R
+10 1>8.72
+*OK
+
+L,0
+11 1>*OK
+
+R
+10 2>10.911
+*OK
+
+L,0
+11 2>*OK
+
+R
+10 3>0.00,0,0.00,1.000
+*OK
+
+L,0
+11 3>*OK
+
+NumberOfValues: 7
+DS18B20 24.25
+Metrics
+1492888829
+Packet: 3 1492888829 193.53 75.10 8.72 10.91 0.00 0.00 0.00 1.00 24.25 0.00 0.00 0.00
+Watchdog enabled: 8192
+Queue: 37
+Pinging
+Ping retry
+Ping retry
+No pong
+Bye!
+L,1
+9 0>*OK
+
+L,1
+9 1>*OK
+
+L,1
+9 2>*OK
+
+L,1
+9 3>*OK
+
+R
+10 0>76.5
+*OK
+
+L,0
+11 0>*OK
+
+R
+10 1>9.93
+*OK
+
+L,0
+11 1>*OK
+
+R
+10 2>11.315
+*OK
+
+L,0
+11 2>*OK
+
+R
+10 3>0.00,0,0.00,1.000
+*OK
+
+L,0
+11 3>*OK
+
+NumberOfValues: 7
+DS18B20 24.19
+Metrics
+1492888846
+Packet: 3 1492888846 193.69 76.50 9.93 11.31 0.00 0.00 0.00 1.00 24.19 0.00 0.00 0.00
+Watchdog enabled: 8192
+Queue: 38
+Pinging
+Ping retry
+Ping retry
+No pong
+Bye!
+L,1
+9 0>*OK
+
+L,1
+9 1>*OK
+
+L,1
+9 2>*OK
+
+L,1
+9 3>*OK
+
+R
+10 0>77.5
+*OK
+
+L,0
+11 0>*OK
+
+R
+10 1>8.94
+*OK
+
+L,0
+11 1>*OK
+
+R
+10 2>11.314
+*OK
+
+L,0
+11 2>*OK
+
+R
+10 3>0.00,0,0.00,1.000
+*OK
+
+L,0
+11 3>*OK
+
+NumberOfValues: 7
+DS18B20 24.12
+Metrics
+1492888864
+Packet: 3 1492888864 193.69 77.50 8.94 11.31 0.00 0.00 0.00 1.00 24.12 0.00 0.00 0.00
+Watchdog enabled: 8192
+Queue: 39
+Pinging
+Ping retry
+Ping retry
+No pong
+Bye!
+L,1
+9 0>*OK
+
+L,1
+9 1>*OK
+
+L,1
+9 2>*OK
+
+L,1
+9 3>*OK
+
+R
+10 0>80.4
+*OK
+
+L,0
+11 0>*OK
+
+R
+10 1>8.99
+*OK
+
+L,0
+11 1>*OK
+
+R
+10 2>11.900
+*OK
+
+L,0
+11 2>*OK
+
+R
+10 3>0.00,0,0.00,1.000
+*OK
+
+L,0
+11 3>*OK
+
+NumberOfValues: 7
+DS18B20 24.25
+Metrics
+1492888882
+Packet: 3 1492888882 193.69 80.40 8.99 11.90 0.00 0.00 0.00 1.00 24.25 0.00 0.00 0.00
+Watchdog enabled: 8192
+Queue: 40
+Pinging
+Ping retry
+Ping retry
+No pong
+Bye!
+Watchdog enabled: 8192
+Loop
+PORT: 0
+C,0
+1 0>*OK
+
+RESPONSE,1
+2 0>*OK
+
+STATUS
+3 0>?STATUS,P,3.171
+*OK
+
+STATUS
+4 0>?STATUS,P,3.171
+*OK
+
+L,1
+5 0>*OK
+
+C,0
+6 0>*OK
+
+PORT: 1
+C,0
+1 1>*OK
+
+RESPONSE,1
+2 1>*OK
+
+STATUS
+3 1>?STATUS,P,3.171
+*OK
+
+STATUS
+4 1>?STATUS,P,3.193
+*OK
+
+L,1
+5 1>*OK
+
+C,0
+6 1>*OK
+
+PORT: 2
+C,0
+1 2>*OK
+
+RESPONSE,1
+2 2>*OK
+
+STATUS
+3 2>?STATUS,P,3.171
+*OK
+
+STATUS
+4 2>?STATUS,P,3.171
+*OK
+
+L,1
+5 2>*OK
+
+C,0
+6 2>*OK
+
+PORT: 3
+C,0
+1 3>*ER
+
+RESPONSE,1
+2 3>*OK
+
+STATUS
+3 3>?STATUS,P,4.184
+*OK
+
+STATUS
+4 3>?STATUS,P,4.140
+*OK
+
+L,1
+5 3>*OK
+
+C,0
+6 3>*OK
+
+Waiting...
+PORT: 0
+R
+8 0>78.0
+*OK
+
+PORT: 1
+R
+8 1>9.00
+*OK
+
+PORT: 2
+R
+8 2>12.990
+*OK
+
+PORT: 3
+R
+8 3>0.00,0,0.00,1.000
+*OK
+
+Read0: 1
+PORT: 0
+R
+8 0>84.7
+*OK
+
+PORT: 1
+R
+8 1>8.81
+*OK
+
+PORT: 2
+R
+8 2>12.826
+*OK
+
+PORT: 3
+R
+8 3>0.00,0,0.00,1.000
+*OK
+
+Read0: 2
+PORT: 0
+R
+8 0>87.0
+*OK
+
+PORT: 1
+R
+8 1>8.63
+*OK
+
+PORT: 2
+R
+8 2>12.343
+*OK
+
+PORT: 3
+R
+8 3>0.00,0,0.00,1.000
+*OK
+
+Read0: 3
+PORT: 0
+R
+8 0>86.5
+*OK
+
+PORT: 1
+R
+8 1>8.67
+*OK
+
+PORT: 2
+R
+8 2>13.022
+*OK
+
+PORT: 3
+R
+8 3>0.00,0,0.00,1.000
+*OK
+
+Read0: 4
+PORT: 0
+R
+8 0>85.9
+*OK
+
+PORT: 1
+R
+8 1>8.66
+*OK
+
+PORT: 2
+R
+8 2>13.027
+*OK
+
+PORT: 3
+R
+8 3>0.00,0,0.00,1.000
+*OK
+
+Read0: 5
+PORT: 0
+R
+8 0>87.3
+*OK
+
+PORT: 1
+R
+8 1>8.65
+*OK
+
+PORT: 2
+R
+8 2>12.563
+*OK
+
+PORT: 3
+R
+8 3>0.00,0,0.00,1.000
+*OK
+
+Read0: 6
+PORT: 0
+R
+8 0>82.7
+*OK
+
+PORT: 1
+R
+8 1>8.66
+*OK
+
+PORT: 2
+R
+8 2>12.667
+*OK
+
+PORT: 3
+R
+8 3>0.00,0,0.00,1.000
+*OK
+
+Read0: 7
+PORT: 0
+R
+8 0>88.5
+*OK
+
+PORT: 1
+R
+8 1>8.63
+*OK
+
+PORT: 2
+R
+8 2>12.571
+*OK
+
+PORT: 3
+R
+8 3>0.00,0,0.00,1.000
+*OK
+
+Read0: 8
+PORT: 0
+R
+8 0>96.1
+*OK
+
+PORT: 1
+R
+8 1>8.65
+*OK
+
+PORT: 2
+R
+8 2>12.054
+*OK
+
+PORT: 3
+R
+8 3>0.00,0,0.00,1.000
+*OK
+
+Read0: 9
+PORT: 0
+R
+8 0>88.5
+*OK
+
+PORT: 1
+R
+8 1>8.67
+*OK
+
+PORT: 2
+R
+8 2>12.194
+*OK
+
+PORT: 3
+R
+8 3>0.00,0,0.00,1.000
+*OK
+
+Read0: 10
+PORT: 0
+R
+8 0>89.4
+*OK
+
+PORT: 1
+R
+8 1>8.60
+*OK
+
+PORT: 2
+R
+8 2>11.794
+*OK
+
+PORT: 3
+R
+8 3>0.00,0,0.00,1.000
+*OK
+
+Read0: 11
+PORT: 0
+R
+8 0>90.4
+*OK
+
+PORT: 1
+R
+8 1>8.57
+*OK
+
+PORT: 2
+R
+8 2>12.175
+*OK
+
+PORT: 3
+R
+8 3>0.00,0,0.00,1.000
+*OK
+
+Read0: 12
+PORT: 0
+R
+8 0>87.7
+*OK
+
+PORT: 1
+R
+8 1>8.59
+*OK
+
+PORT: 2
+R
+8 2>12.177
+*OK
+
+PORT: 3
+R
+8 3>0.00,0,0.00,1.000
+*OK
+
+Read0: 13
+PORT: 0
+R
+8 0>86.8
+*OK
+
+PORT: 1
+R
+8 1>8.60
+*OK
+
+PORT: 2
+R
+8 2>11.981
+*OK
+
+PORT: 3
+R
+8 3>0.00,0,0.00,1.000
+*OK
+
+Read0: 14
+PORT: 0
+R
+8 0>86.8
+*OK
+
+PORT: 1
+R
+8 1>8.60
+*OK
+
+PORT: 2
+R
+8 2>12.012
+*OK
+
+PORT: 3
+R
+8 3>0.00,0,0.00,1.000
+*OK
+
+Read0: 15
+PORT: 0
+R
+8 0>90.7
+*OK
+
+PORT: 1
+R
+8 1>8.64
+*OK
+
+PORT: 2
+R
+8 2>12.764
+*OK
+
+PORT: 3
+R
+8 3>0.00,0,0.00,1.000
+*OK
+
+Read0: 16
+PORT: 0
+R
+8 0>91.2
+*OK
+
+PORT: 1
+R
+8 1>8.66
+*OK
+
+PORT: 2
+R
+8 2>12.529
+*OK
+
+PORT: 3
+R
+8 3>0.00,0,0.00,1.000
+*OK
+
+Starting Real Reads
+R
+10 0>90.4
+*OK
+
+L,0
+11 0>*OK
+
+R
+10 1>8.64
+*OK
+
+L,0
+11 1>*OK
+
+R
+10 2>11.735
+*OK
+
+L,0
+11 2>*OK
+
+R
+10 3>0.00,0,0.00,1.000
+*OK
+
+L,0
+11 3>*OK
+
+NumberOfValues: 7
+DS18B20 85.00
+Metrics
+1492888186
+Packet: 3 1492888186 192.42 90.40 8.64 11.73 0.00 0.00 0.00 1.00 85.00 0.00 0.00 0.00
+Watchdog enabled: 8192
+Queue: 42
+Pinging
+P:1
+Ponged
+Clock Adjusted delta=487840
+P:2
+Ack
+P:2
+Ack
+P:2
+Ack
+P:2
+Ack
+P:2
+Ack
+P:2
+Ack
+P:2
+Ack
+P:2
+Ack
+P:2
+Ack
+P:2
+Ack
+P:2
+Ack
+P:2
+Ack
+P:2
+Ack
+P:2
+Ack
+P:2
+Ack
+P:2
+Ack
+P:2
+Ack
+P:2
+Ack
+P:2
+Ack
+P:2
+Ack
+P:2
+Ack
+P:2
+Ack
+P:2
+Ack
+P:2
+Ack
+P:2
+Ack
+P:2
+Ack
+P:2
+Ack
+P:2
+Ack
+P:2
+Ack
+P:2
+Ack
+P:2
+Ack
+P:2
+Ack
+P:2
+Ack
+P:2
+Ack
+P:2
+Ack
+P:2
+Ack
+P:2
+Ack
+P:2
+Ack
+P:2
+Ack
+P:2
+Ack
+Nack, rx
+P:2
+Ack
+P:2
+Ack
+End of queue
+Empty
+Bye!
+L,1
+9 0>*OK
+
+L,1
+9 1>*OK
+
+L,1
+9 2>*OK
+
+L,1
+9 3>*OK
+
+R
+10 0>87.4
+*OK
+
+L,0
+11 0>*OK
+
+R
+10 1>9.19
+*OK
+
+L,0
+11 1>*OK
+
+R
+10 2>12.018
+*OK
+
+L,0
+11 2>*OK
+
+R
+10 3>0.00,0,0.00,1.000
+*OK
+
+L,0
+11 3>*OK
+
+NumberOfValues: 7
+DS18B20 24.19
+Metrics
+1493376053
+Packet: 3 1493376053 192.42 87.40 9.19 12.02 0.00 0.00 0.00 1.00 24.19 0.00 0.00 0.00
+Watchdog enabled: 8192
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted delta=0
+P:2
+Ack
+End of queue
+Empty
+Bye!
+L,1
+9 0>*OK
+
+L,1
+9 1>*OK
+
+L,1
+9 2>*OK
+
+L,1
+9 3>*OK
+
+R
+10 0>91.3
+*OK
+
+L,0
+11 0>*OK
+
+R
+10 1>9.35
+*OK
+
+L,0
+11 1>*OK
+
+R
+10 2>11.779
+*OK
+
+L,0
+11 2>*OK
+
+R
+10 3>0.00,0,0.00,1.000
+*OK
+
+L,0
+11 3>*OK
+
+NumberOfValues: 7
+DS18B20 24.50
+Metrics
+1493376063
+Packet: 3 1493376063 192.42 91.30 9.35 11.78 0.00 0.00 0.00 1.00 24.50 0.00 0.00 0.00
+Watchdog enabled: 8192
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted delta=-1
+P:2
+Ack
+End of queue
+Empty
+Bye!
+L,1
+9 0>*OK
+
+L,1
+9 1>*OK
+
+L,1
+9 2>*OK
+
+L,1
+9 3>*OK
+
+R
+10 0>90.4
+*OK
+
+L,0
+11 0>*OK
+
+R
+10 1>8.78
+*OK
+
+L,0
+11 1>*OK
+
+R
+10 2>14.000
+*OK
+
+L,0
+11 2>*OK
+
+R
+10 3>0.00,0,0.00,1.000
+*OK
+
+L,0
+11 3>*OK
+
+NumberOfValues: 7
+DS18B20 24.44
+Metrics
+1493376073
+Packet: 3 1493376073 192.42 90.40 8.78 14.00 0.00 0.00 0.00 1.00 24.44 0.00 0.00 0.00
+Watchdog enabled: 8192
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted delta=0
+P:2
+Ack
+End of queue
+Empty
+Bye!
+L,1
+9 0>*OK
+
+L,1
+9 1>*OK
+
+L,1
+9 2>*OK
+
+L,1
+9 3>*OK
+
+R
+10 0>95.4
+*OK
+
+L,0
+11 0>*OK
+
+R
+10 1>8.84
+*OK
+
+L,0
+11 1>*OK
+
+R
+10 2>12.850
+*OK
+
+L,0
+11 2>*OK
+
+R
+10 3>0.00,0,0.00,1.000
+*OK
+
+L,0
+11 3>*OK
+
+NumberOfValues: 7
+DS18B20 24.25
+Metrics
+1493376083
+Packet: 3 1493376083 192.42 95.40 8.84 12.85 0.00 0.00 0.00 1.00 24.25 0.00 0.00 0.00
+Watchdog enabled: 8192
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted delta=0
+P:2
+Ack
+End of queue
+Empty
+Bye!
+L,1
+9 0>*OK
+
+L,1
+9 1>*OK
+
+L,1
+9 2>*OK
+
+L,1
+9 3>*OK
+
+R
+10 0>79.3
+*OK
+
+L,0
+11 0>*OK
+
+R
+10 1>10.34
+*OK
+
+L,0
+11 1>*OK
+
+R
+10 2>12.732
+*OK
+
+L,0
+11 2>*OK
+
+R
+10 3>0.00,0,0.00,1.000
+*OK
+
+L,0
+11 3>*OK
+
+NumberOfValues: 7
+DS18B20 24.50
+Metrics
+1493376094
+Packet: 3 1493376094 192.42 79.30 10.34 12.73 0.00 0.00 0.00 1.00 24.50 0.00 0.00 0.00
+Watchdog enabled: 8192
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted delta=0
+P:2
+Ack
+End of queue
+Empty
+Bye!
+L,1
+9 0>*OK
+
+L,1
+9 1>*OK
+
+L,1
+9 2>*OK
+
+L,1
+9 3>*OK
+
+R
+10 0>116.6
+*OK
+
+L,0
+11 0>*OK
+
+R
+10 1>8.27
+*OK
+
+L,0
+11 1>*OK
+
+R
+10 2>14.000
+*OK
+
+L,0
+11 2>*OK
+
+R
+10 3>0.00,0,0.00,1.000
+*OK
+
+L,0
+11 3>*OK
+
+NumberOfValues: 7
+DS18B20 24.56
+Metrics
+1493376104
+Packet: 3 1493376104 192.42 116.60 8.27 14.00 0.00 0.00 0.00 1.00 24.56 0.00 0.00 0.00
+Watchdog enabled: 8192
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted delta=1
+P:2
+Ack
+End of queue
+Empty
+Bye!
+L,1
+9 0>*OK
+
+L,1
+9 1>*OK
+
+L,1
+9 2>*OK
+
+L,1
+9 3>*OK
+
+R
+10 0>99.4
+*OK
+
+L,0
+11 0>*OK
+
+R
+10 1>7.48
+*OK
+
+L,0
+11 1>*OK
+
+R
+10 2>14.000
+*OK
+
+L,0
+11 2>*OK
+
+R
+10 3>0.00,0,0.00,1.000
+*OK
+
+L,0
+11 3>*OK
+
+NumberOfValues: 7
+DS18B20 24.56
+Metrics
+1493376115
+Packet: 3 1493376115 192.42 99.40 7.48 14.00 0.00 0.00 0.00 1.00 24.56 0.00 0.00 0.00
+Watchdog enabled: 8192
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted delta=-1
+P:2
+Ack
+End of queue
+Empty
+Bye!
+L,1
+9 0>*OK
+
+L,1
+9 1>*OK
+
+L,1
+9 2>*OK
+
+L,1
+9 3>*OK
+
+R
+10 0>86.2
+*OK
+
+L,0
+11 0>*OK
+
+R
+10 1>7.67
+*OK
+
+L,0
+11 1>*OK
+
+R
+10 2>14.000
+*OK
+
+L,0
+11 2>*OK
+
+R
+10 3>0.00,0,0.00,1.000
+*OK
+
+L,0
+11 3>*OK
+
+NumberOfValues: 7
+DS18B20 24.50
+Metrics
+1493376125
+Packet: 3 1493376125 192.58 86.20 7.67 14.00 0.00 0.00 0.00 1.00 24.50 0.00 0.00 0.00
+Watchdog enabled: 8192
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted delta=0
+P:2
+Ack
+End of queue
+Empty
+Bye!
+L,1
+9 0>*OK
+
+L,1
+9 1>*OK
+
+L,1
+9 2>*OK
+
+L,1
+9 3>*OK
+
+R
+10 0>83.1
+*OK
+
+L,0
+11 0>*OK
+
+R
+10 1>7.13
+*OK
+
+L,0
+11 1>*OK
+
+R
+10 2>14.000
+*OK
+
+L,0
+11 2>*OK
+
+R
+10 3>0.00,0,0.00,1.000
+*OK
+
+L,0
+11 3>*OK
+
+NumberOfValues: 7
+DS18B20 24.44
+Metrics
+1493376135
+Packet: 3 1493376135 192.58 83.10 7.13 14.00 0.00 0.00 0.00 1.00 24.44 0.00 0.00 0.00
+Watchdog enabled: 8192
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted delta=0
+P:2
+Ack
+End of queue
+Empty
+Bye!
+L,1
+9 0>*OK
+
+L,1
+9 1>*OK
+
+L,1
+9 2>*OK
+
+L,1
+9 3>*OK
+
+R
+10 0>85.2
+*OK
+
+L,0
+11 0>*OK
+
+R
+10 1>6.98
+*OK
+
+L,0
+11 1>*OK
+
+R
+10 2>14.000
+*OK
+
+L,0
+11 2>*OK
+
+R
+10 3>0.00,0,0.00,1.000
+*OK
+
+L,0
+11 3>*OK
+
+NumberOfValues: 7
+DS18B20 24.50
+Metrics
+1493376146
+Packet: 3 1493376146 192.58 85.20 6.98 14.00 0.00 0.00 0.00 1.00 24.50 0.00 0.00 0.00
+Watchdog enabled: 8192
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted delta=1
+P:2
+Ack
+End of queue
+Empty
+Bye!
+L,1
+9 0>*OK
+
+L,1
+9 1>*OK
+
+L,1
+9 2>*OK
+
+L,1
+9 3>*OK
+
+R
+10 0>81.1
+*OK
+
+L,0
+11 0>*OK
+
+R
+10 1>6.97
+*OK
+
+L,0
+11 1>*OK
+
+R
+10 2>14.000
+*OK
+
+L,0
+11 2>*OK
+
+R
+10 3>0.00,0,0.00,1.000
+*OK
+
+L,0
+11 3>*OK
+
+NumberOfValues: 7
+DS18B20 24.44
+Metrics
+1493376158
+Packet: 3 1493376158 192.58 81.10 6.97 14.00 0.00 0.00 0.00 1.00 24.44 0.00 0.00 0.00
+Watchdog enabled: 8192
+Queue: 1
+Pinging
+Ping retry
+P:1
+Ponged
+Clock Adjusted delta=0
+P:2
+Ack
+End of queue
+Empty
+Bye!
+L,1
+9 0>*OK
+
+L,1
+9 1>*OK
+
+L,1
+9 2>*OK
+
+L,1
+9 3>*OK
+
+R
+10 0>81.0
+*OK
+
+L,0
+11 0>*OK
+
+R
+10 1>7.28
+*OK
+
+L,0
+11 1>*OK
+
+R
+10 2>14.000
+*OK
+
+L,0
+11 2>*OK
+
+R
+10 3>0.00,0,0.00,1.000
+*OK
+
+L,0
+11 3>*OK
+
+NumberOfValues: 7
+DS18B20 24.44
+Metrics
+1493376170
+Packet: 3 1493376170 192.58 81.00 7.28 14.00 0.00 0.00 0.00 1.00 24.44 0.00 0.00 0.00
+Watchdog enabled: 8192
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted delta=-1
+P:2
+Ack
+End of queue
+Empty
+Bye!
+L,1
+9 0>*OK
+
+L,1
+9 1>*OK
+
+L,1
+9 2>*OK
+
+L,1
+9 3>*OK
+
+R
+10 0>81.2
+*OK
+
+L,0
+11 0>*OK
+
+R
+10 1>7.05
+*OK
+
+L,0
+11 1>*OK
+
+R
+10 2>14.000
+*OK
+
+L,0
+11 2>*OK
+
+R
+10 3>0.00,0,0.00,1.000
+*OK
+
+L,0
+11 3>*OK
+
+NumberOfValues: 7
+DS18B20 24.50
+Metrics
+1493376180
+Packet: 3 1493376180 192.58 81.20 7.05 14.00 0.00 0.00 0.00 1.00 24.50 0.00 0.00 0.00
+Watchdog enabled: 8192
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted delta=0
+P:2
+Ack
+End of queue
+Empty
+Bye!
+L,1
+9 0>*OK
+
+L,1
+9 1>*OK
+
+L,1
+9 2>*OK
+
+L,1
+9 3>*OK
+
+R
+10 0>81.1
+*OK
+
+L,0
+11 0>*OK
+
+R
+10 1>7.09
+*OK
+
+L,0
+11 1>*OK
+
+R
+10 2>14.000
+*OK
+
+L,0
+11 2>*OK
+
+R
+10 3>0.00,0,0.00,1.000
+*OK
+
+L,0
+11 3>*OK
+
+NumberOfValues: 7
+DS18B20 24.50
+Metrics
+1493376190
+Packet: 3 1493376190 192.58 81.10 7.09 14.00 0.00 0.00 0.00 1.00 24.50 0.00 0.00 0.00
+Watchdog enabled: 8192
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted delta=0
+P:2
+Ack
+End of queue
+Empty
+Bye!
+L,1
+9 0>*OK
+
+L,1
+9 1>*OK
+
+L,1
+9 2>*OK
+
+L,1
+9 3>*OK
+
+R
+10 0>80.5
+*OK
+
+L,0
+11 0>*OK
+
+R
+10 1>7.12
+*OK
+
+L,0
+11 1>*OK
+
+R
+10 2>14.000
+*OK
+
+L,0
+11 2>*OK
+
+R
+10 3>0.00,0,0.00,1.000
+*OK
+
+L,0
+11 3>*OK
+
+NumberOfValues: 7
+DS18B20 24.56
+Metrics
+1493376201
+Packet: 3 1493376201 192.58 80.50 7.12 14.00 0.00 0.00 0.00 1.00 24.56 0.00 0.00 0.00
+Watchdog enabled: 8192
+Queue: 1
+Pinging
+Ping retry
+Ping retry
+P:1
+Ponged
+Clock Adjusted delta=0
+P:2
+Ack
+End of queue
+Empty
+Bye!
+L,1
+9 0>*OK
+
+L,1
+9 1>*OK
+
+L,1
+9 2>*OK
+
+L,1
+9 3>*OK
+
+R
+10 0>82.1
+*OK
+
+L,0
+11 0>*OK
+
+R
+10 1>7.10
+*OK
+
+L,0
+11 1>*OK
+
+R
+10 2>14.000
+*OK
+
+L,0
+11 2>*OK
+
+R
+10 3>0.00,0,0.00,1.000
+*OK
+
+L,0
+11 3>*OK
+
+NumberOfValues: 7
+DS18B20 24.50
+Metrics
+1493376216
+Packet: 3 1493376216 192.58 82.10 7.10 14.00 0.00 0.00 0.00 1.00 24.50 0.00 0.00 0.00
+Watchdog enabled: 8192
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted delta=1
+Nack, rx
+P:2
+Ack
+End of queue
+Empty
+Bye!
+L,1
+9 0>*OK
+
+L,1
+9 1>*OK
+
+L,1
+9 2>*OK
+
+L,1
+9 3>*OK
+
+R
+10 0>73.0
+*OK
+
+L,0
+11 0>*OK
+
+R
+10 1>7.29
+*OK
+
+L,0
+11 1>*OK
+
+R
+10 2>14.000
+*OK
+
+L,0
+11 2>*OK
+
+R
+10 3>0.00,0,0.00,1.000
+*OK
+
+L,0
+11 3>*OK
+
+NumberOfValues: 7
+DS18B20 24.50
+Metrics
+1493376233
+Packet: 3 1493376233 192.58 73.00 7.29 14.00 0.00 0.00 0.00 1.00 24.50 0.00 0.00 0.00
+Watchdog enabled: 8192
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted delta=-1
+P:2
+Ack
+End of queue
+Empty
+Bye!
+L,1
+9 0>*OK
+
+L,1
+9 1>*OK
+
+L,1
+9 2>*OK
+
+L,1
+9 3>*OK
+
+R
+10 0>82.8
+*OK
+
+L,0
+11 0>*OK
+
+R
+10 1>7.12
+*OK
+
+L,0
+11 1>*OK
+
+R
+10 2>14.000
+*OK
+
+L,0
+11 2>*OK
+
+R
+10 3>0.00,0,0.00,1.000
+*OK
+
+L,0
+11 3>*OK
+
+NumberOfValues: 7
+DS18B20 24.56
+Metrics
+1493376242
+Packet: 3 1493376242 192.58 82.80 7.12 14.00 0.00 0.00 0.00 1.00 24.56 0.00 0.00 0.00
+Watchdog enabled: 8192
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted delta=1
+P:2
+Ack
+End of queue
+Empty
+Bye!
+L,1
+9 0>*OK
+
+L,1
+9 1>*OK
+
+L,1
+9 2>*OK
+
+L,1
+9 3>*OK
+
+R
+10 0>81.3
+*OK
+
+L,0
+11 0>*OK
+
+R
+10 1>7.10
+*OK
+
+L,0
+11 1>*OK
+
+R
+10 2>14.000
+*OK
+
+L,0
+11 2>*OK
+
+R
+10 3>0.00,0,0.00,1.000
+*OK
+
+L,0
+11 3>*OK
+
+NumberOfValues: 7
+DS18B20 24.50
+Metrics
+1493376253
+Packet: 3 1493376253 192.58 81.30 7.10 14.00 0.00 0.00 0.00 1.00 24.50 0.00 0.00 0.00
+Watchdog enabled: 8192
+Queue: 1
+Pinging
+Ping retry
+P:1
+Ponged
+Clock Adjusted delta=0
+P:2
+Ack
+End of queue
+Empty
+Bye!
+L,1
+9 0>*OK
+
+L,1
+9 1>*OK
+
+L,1
+9 2>*OK
+
+L,1
+9 3>*OK
+
+R
+10 0>69.7
+*OK
+
+L,0
+11 0>*OK
+
+R
+10 1>7.13
+*OK
+
+L,0
+11 1>*OK
+
+R
+10 2>14.000
+*OK
+
+L,0
+11 2>*OK
+
+R
+10 3>0.00,0,0.00,1.000
+*OK
+
+L,0
+11 3>*OK
+
+NumberOfValues: 7
+DS18B20 24.44
+Metrics
+1493376266
+Packet: 3 1493376266 192.58 69.70 7.13 14.00 0.00 0.00 0.00 1.00 24.44 0.00 0.00 0.00
+Watchdog enabled: 8192
+Queue: 1
+Pinging
+Ping retry
+P:0
+Ignore ping.
+P:1
+Ponged
+Clock Adjusted delta=0
+Nack, rx
+P:2
+Ack
+End of queue
+Empty
+Bye!
+L,1
+9 0>*OK
+
+L,1
+9 1>*OK
+
+L,1
+9 2>*OK
+
+L,1
+9 3>*OK
+
+R
+10 0>93.8
+*OK
+
+L,0
+11 0>*OK
+
+R
+10 1>7.09
+*OK
+
+L,0
+11 1>*OK
+
+R
+10 2>14.000
+*OK
+
+L,0
+11 2>*OK
+
+R
+10 3>0.00,0,0.00,1.000
+*OK
+
+L,0
+11 3>*OK
+
+NumberOfValues: 7
+DS18B20 24.44
+Metrics
+1493376286
+Packet: 3 1493376286 192.58 93.80 7.09 14.00 0.00 0.00 0.00 1.00 24.44 0.00 0.00 0.00
+Watchdog enabled: 8192
+Queue: 1
+Pinging
+P:1
+Ponged
+Clock Adjusted delta=-1
+Nack, rx
+Nack, rx
+P:2
+Ack
+End of queue
+Empty
+Bye!
+L,1
+9 0>*OK
+
+L,1
+9 1>*OK
+
+L,1
+9 2>*OK
+
+L,1
+9 3>*OK
+
+R
+10 0>82.0
+*OK
+
+L,0
+11 0>*OK
+
+R
+10 1>7.10
+*OK
+
+L,0
+11 1>*OK
+
+R
+10 2>14.000
+*OK
+
+L,0
+11 2>*OK
+
+R
+10 3>0.00,0,0.00,1.000
+*OK
+
+L,0
+11 3>*OK
+
+NumberOfValues: 7
+DS18B20 24.37
+Metrics
+1493376303
+Packet: 3 1493376303 192.58 82.00 7.10 14.00 0.00 0.00 0.00 1.00 24.37 0.00 0.00 0.00
+Watchdog enabled: 8192
+Queue: 1
+Pinging
+Ping retry
+Ping retry
+No pong
+Bye!
+L,1
+9 0>*OK
+
+L,1
+9 1>*OK
+
+L,1
+9 2>*OK
+
+L,1
+9 3>*OK
+
+R
+10 0>80.3
+*OK
+
+L,0
+11 0>*OK
+
+R
+10 1>7.13
+*OK
+
+L,0
+11 1>*OK
+
+R
+10 2>14.000
+*OK
+
+L,0
+11 2>*OK
+
+R
+10 3>0.00,0,0.00,1.000
+*OK
+
+L,0
+11 3>*OK
+
+NumberOfValues: 7
+DS18B20 24.44
+Metrics
+1493376320
+Packet: 3 1493376320 192.58 80.30 7.13 14.00 0.00 0.00 0.00 1.00 24.44 0.00 0.00 0.00
+Watchdog enabled: 8192
+Queue: 2
+Pinging
+Ping retry
+Ping retry
+No pong
+Bye!
+L,1
+9 0>*OK
+
+L,1
+9 1>*OK
+
+L,1
+9 2>*OK
+
+L,1
+9 3>*OK
+
+R
+10 0>80.4
+*OK
+
+L,0
+11 0>*OK
+
+R
+10 1>7.12
+*OK
+
+L,0
+11 1>*OK
+
+R
+10 2>14.000
+*OK
+
+L,0
+11 2>*OK
+
+R
+10 3>0.00,0,0.00,1.000
+*OK
+
+L,0
+11 3>*OK
+
+NumberOfValues: 7
+DS18B20 24.44
+Metrics
+1493376338
+Packet: 3 1493376338 192.58 80.40 7.12 14.00 0.00 0.00 0.00 1.00 24.44 0.00 0.00 0.00
+Watchdog enabled: 8192
+Queue: 3
+Pinging
+Ping retry
+Ping retry
+No pong
+Bye!
+L,1
+9 0>*OK
+
+L,1
+9 1>*OK
+
+L,1
+9 2>*OK
+
+L,1
+9 3>*OK
+
+R
+10 0>80.6
+*OK
+
+L,0
+11 0>*OK
+
+R
+10 1>7.07
+*OK
+
+L,0
+11 1>*OK
+
+R
+10 2>14.000
+*OK
+
+L,0
+11 2>*OK
+
+R
+10 3>0.00,0,0.00,1.000
+*OK
+
+L,0
+11 3>*OK
+
+NumberOfValues: 7
+DS18B20 24.44
+Metrics
+1493376355
+Packet: 3 1493376355 192.58 80.60 7.07 14.00 0.00 0.00 0.00 1.00 24.44 0.00 0.00 0.00
+Watchdog enabled: 8192
+Queue: 4
+Pinging
+P:1
+Ponged
+Clock Adjusted delta=1
+Nack, rx
+Nack, rx
+Nack, break
+Pinging
+Ping retry
+Ping retry
+No pong
+Bye!
+L,1
+9 0>*OK
+
+L,1
+9 1>*OK
+
+L,1
+9 2>*OK
+
+L,1
+9 3>*OK
+
+R
+10 0>81.1
+*OK
+
+L,0
+11 0>*OK
+
+R
+10 1>6.94
+*OK
+
+L,0
+11 1>*OK
+
+R
+10 2>14.000
+*OK
+
+L,0
+11 2>*OK
+
+R
+10 3>0.00,0,0.00,1.000
+*OK
+
+L,0
+11 3>*OK
+
+NumberOfValues: 7
+DS18B20 24.50
+Metrics
+1493376386
+Packet: 3 1493376386 192.58 81.10 6.94 14.00 0.00 0.00 0.00 1.00 24.50 0.00 0.00 0.00
+Watchdog enabled: 8192
+Queue: 5
+Pinging
+Ping retry
+Ping retry
+No pong
+Bye!
+L,1
+9 0>*OK
+
+L,1
+9 1>*OK
+
+L,1
+9 2>*OK
+
+L,1
+9 3>*OK
+
+R
+10 0>80.2
+*OK
+
+L,0
+11 0>*OK
+
+R
+10 1>6.98
+*OK
+
+L,0
+11 1>*OK
+
+R
+10 2>14.000
+*OK
+
+L,0
+11 2>*OK
+
+R
+10 3>0.00,0,0.00,1.000
+*OK
+
+L,0
+11 3>*OK
+
+NumberOfValues: 7
+DS18B20 24.50
+Metrics
+1493376404
+Packet: 3 1493376404 192.58 80.20 6.98 14.00 0.00 0.00 0.00 1.00 24.50 0.00 0.00 0.00
+Watchdog enabled: 8192
+Queue: 6
+Pinging
+Ping retry
+Ping retry
+No pong
+Bye!
+L,1
+9 0>*OK
+
+L,1
+9 1>*OK
+
+L,1
+9 2>*OK
+
+L,1
+9 3>*OK
+
+R
+10 0>78.7
+*OK
+
+L,0
+11 0>*OK
+
+R
+10 1>7.12
+*OK
+
+L,0
+11 1>*OK
+
+R
+10 2>14.000
+*OK
+
+L,0
+11 2>*OK
+
+R
+10 3>0.00,0,0.00,1.000
+*OK
+
+L,0
+11 3>*OK
+
+NumberOfValues: 7
+DS18B20 24.56
+Metrics
+1493376421
+Packet: 3 1493376421 192.58 78.70 7.12 14.00 0.00 0.00 0.00 1.00 24.56 0.00 0.00 0.00
+Watchdog enabled: 8192
+Queue: 7
+Pinging
+Ping retry
+Ping retry
+No pong
+Bye!
+L,1
+9 0>*OK
+
+L,1
+9 1>*OK
+
+L,1
+9 2>*OK
+
+L,1
+9 3>*OK
+
+R
+10 0>79.8
+*OK
+
+L,0
+11 0>*OK
+
+R
+10 1>7.61
+*OK
+
+L,0
+11 1>*OK
+
+R
+10 2>14.000
+*OK
+
+L,0
+11 2>*OK
+
+R
+10 3>0.00,0,0.00,1.000
+*OK
+
+L,0
+11 3>*OK
+
+NumberOfValues: 7
+DS18B20 24.56
+Metrics
+1493376439
+Packet: 3 1493376439 192.58 79.80 7.61 14.00 0.00 0.00 0.00 1.00 24.56 0.00 0.00 0.00
+Watchdog enabled: 8192
+Queue: 8
+Pinging
+Ping retry
+Ping retry
+No pong
+Bye!
+L,1
+9 0>*OK
+
+L,1
+9 1>*OK
+
+L,1
+9 2>*OK
+
+L,1
+9 3>*OK
+
+R
+10 0>79.1
+*OK
+
+L,0
+11 0>*OK
+
+R
+10 1>7.90
+*OK
+
+L,0
+11 1>*OK
+
+R
+10 2>14.000
+*OK
+
+L,0
+11 2>*OK
+
+R
+10 3>0.00,0,0.00,1.000
+*OK
+
+L,0
+11 3>*OK
+
+NumberOfValues: 7
+DS18B20 24.56
+Metrics
+1493376456
+Packet: 3 1493376456 192.58 79.10 7.90 14.00 0.00 0.00 0.00 1.00 24.56 0.00 0.00 0.00
+Watchdog enabled: 8192
+Queue: 9
+Pinging
+Ping retry
+Ping retry
+No pong
+Bye!
+L,1
+9 0>*OK
+
+L,1
+9 1>*OK
+
+L,1
+9 2>*OK
+
+L,1
+9 3>*OK
+
+R
+10 0>82.1
+*OK
+
+L,0
+11 0>*OK
+
+R
+10 1>7.71
+*OK
+
+L,0
+11 1>*OK
+
+R
+10 2>14.000
+*OK
+
+L,0
+11 2>*OK
+
+R
+10 3>0.00,0,0.00,1.000
+*OK
+
+L,0
+11 3>*OK
+
+NumberOfValues: 7
+DS18B20 24.62
+Metrics
+1493376474
+Packet: 3 1493376474 192.58 82.10 7.71 14.00 0.00 0.00 0.00 1.00 24.62 0.00 0.00 0.00
+Watchdog enabled: 8192
+Queue: 10
+Pinging
+Ping retry
+Ping retry
+No pong
+Bye!
+L,1
+9 0>*OK
+
+L,1
+9 1>*OK
+
+L,1
+9 2>*OK
+
+L,1
+9 3>*OK
+
+R
+10 0>80.9
+*OK
+
+L,0
+11 0>*OK
+
+R
+10 1>7.74
+*OK
+
+L,0
+11 1>*OK
+
+R
+10 2>14.000
+*OK
+
+L,0
+11 2>*OK
+
+R
+10 3>0.00,0,0.00,1.000
+*OK
+
+L,0
+11 3>*OK
+
+NumberOfValues: 7
+DS18B20 24.56
+Metrics
+1493376491
+Packet: 3 1493376491 192.58 80.90 7.74 14.00 0.00 0.00 0.00 1.00 24.56 0.00 0.00 0.00
+Watchdog enabled: 8192
+Queue: 11
+Pinging
+Ping retry
+Ping retry
+No pong
+Bye!
+L,1
+9 0>*OK
+
+L,1
+9 1>*OK
+
+L,1
+9 2>*OK
+
+L,1
+9 3>*OK
+
+R
+10 0>79.9
+*OK
+
+L,0
+11 0>*OK
+
+R
+10 1>7.66
+*OK
+
+L,0
+11 1>*OK
+
+R
+10 2>14.000
+*OK
+
+L,0
+11 2>*OK
+
+R
+10 3>0.00,0,0.00,1.000
+*OK
+
+L,0
+11 3>*OK
+
+NumberOfValues: 7
+DS18B20 24.56
+Metrics
+1493376509
+Packet: 3 1493376509 192.58 79.90 7.66 14.00 0.00 0.00 0.00 1.00 24.56 0.00 0.00 0.00
+Watchdog enabled: 8192
+Queue: 12
+Pinging
+Ping retry
+Ping retry
+No pong
+Bye!
+L,1
+9 0>*OK
+
+L,1
+9 1>*OK
+
+L,1
+9 2>*OK
+
+L,1
+9 3>*OK
+
+R
+10 0>81.0
+*OK
+
+L,0
+11 0>*OK
+
+R
+10 1>7.71
+*OK
+
+L,0
+11 1>*OK
+
+R
+10 2>14.000
+*OK
+
+L,0
+11 2>*OK
+
+R
+10 3>0.00,0,0.00,1.000
+*OK
+
+L,0
+11 3>*OK
+
+NumberOfValues: 7
+DS18B20 24.56
+Metrics
+1493376527
+Packet: 3 1493376527 192.58 81.00 7.71 14.00 0.00 0.00 0.00 1.00 24.56 0.00 0.00 0.00
+Watchdog enabled: 8192
+Queue: 13
+Pinging
+Ping retry
+Ping retry
+No pong
+Bye!
