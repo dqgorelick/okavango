@@ -1,4 +1,4 @@
-Last updated 4/26/17
+Last updated 5/1/17
 
 Sensor Stations Deployed:
 
@@ -13,8 +13,6 @@ Rockblock: IMEI = 300234065116200, Code = 11378
 
 Salia Kembo source (KM) on 4/20/17
 Rockblock: IMEI = 300234065118220, Code = 11374
-
-Future deployments
 
 Lunge Bungo (Tchensegwe) source (LB) on 4/26/17
 Rockblock: IMEI = 300234065112330, Code = 11372
