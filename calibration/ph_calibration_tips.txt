@@ -1,0 +1,49 @@
+Calibrating ph sensor advice:
+
+All of this is knowledge I picked up while in the field for the first month. I hope it can help but also remember: very little of this was tested in a controlled environment, hardware is hardware and will disappoint, and finally a lot of these things are just hunches which sometimes worked for me. Anyway, I hope this is helpful. Good luck! 
+
+1) set up calibration station
+- find flat surface, put duct tape on bottom of each solution bottle to secure them (this will save lots of spills, trust me)
+- find a container for discarded liquids, place it under table
+
+2) re-flash feather with calibration.bin or attach calibration feather
+- I think re-flashing is better because then all of the hardware remains the same when actually deploying 
+
+3) check initial readings on the chip 
+- run `ph` and skip `cal,mid,7.00`, `cal,low,4.00`, `cal,high,10.00`
+- run `$r` a few times afterwards
+- values should either all be 0.00, or should be floating around the same value +/- 0.1
+- if the values are changing a lot, then it means there may be high impedance. 
+- if values look good, continue
+
+4) calibrate for 7.00 and check values
+- leave probe in 7.00 solution for 2 mins and then run calibration, skipping 4.00, and 10.00
+- while probe is still in 7.00, check that readings are floating around that value, if they are varying a lot then there is a problem
+- if values look good, continue
+
+5) calibrate 7.00, 4.00, 10.00
+- make sure to wait 2 minutes in each solution before taking the reading
+- make sure to avoid cross-contamination of calibration fluids, you will run out faster than you think you will. 
+- when probe is still in 10.00 solution, take a reading. 
+- readings should hover around 10.00
+- if reading on 10.00 looks good, clean probe and let it sit in 7.00 or 4.00 for 2 mins. Check value. 
+
+*** solving high impedance: 
+- find the tooth brush, and the squirt bottle of ethanol (if you are unsure which it is, you will be able to smell it)
+- remove the purple and yellow chips off of the back of the atlas PCB (remember arrangement)
+- apply ethanol to the toothbrush, and scrub the back of the PCB where the 4 colored atlas chips are attached. 
+- either wait for ethanol to dry, or pad area with paper towel
+- attach chips again and check initial readings again, they should stop jumping around
+
+*** solving time-out problem: 
+- sometimes the atlas chips get stuck in a state where they are unresponsive.
+- if this happens, run `factory` and all of the chips should reset states (you will also lose all previous calibrations)
+
+*** other good tips
+- don't take readings too frequently when checking (ie, running `ph` over and over), this seems to sometimes give wavering readings. 
+- if-need-be just change out the atlas ph chip or probe completely, there are a lot ¯\_(ツ)_/¯ 
+- when finding a PCB which returns consistent values, set this aside to use for the databoat
+
+*** frequency of calibration
+- I am sure it is good to re-calibrate more-often-than-not, but it also take a while to calibrate each time. Often times spending the 10 minutes to calibrate will be a fruitless effort. Choose your time wisely. 
+ 
